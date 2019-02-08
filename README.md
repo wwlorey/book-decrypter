@@ -12,7 +12,7 @@ You will probably want to use some kind of frequency or transitional probability
 
     `$ ./betterSubCrack.py name_of_file_to_crack.txt decrypted_file_to_write.txt`
 
-    hint: you will need to add at least file input/output, command line argumentsvia sys.argv for example, a change of the permissions to executable of the crack script, and a shebang.
+    hint: you will need to add at least file input/output, command line arguments via sys.argv for example, a change of the permissions to executable of the crack script, and a shebang.
 
 3. It must run in under 2 minutes (or so).
 
