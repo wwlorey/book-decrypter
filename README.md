@@ -33,7 +33,7 @@ You will probably want some kind of frequency or transitional probability method
 Thoroughly read the syllabus sections on "Programming assignments" and "Grading". These sections give good tips, tricks, hints, and instructions for programming assignments, including how to submit via Git.
 
 ## Grading
-It does not need to be perfect; we will give you a % accuracy score. 
+Your decryption does not need to be perfect; we will give you a % accuracy score. 
 Specifically, if you got 99% of the characters in the book, you would receive 99% of the below points.
 To be generous with points, this won't be linear, but more in your favor, where cracking 70% of letters would be better than a 70.
 
