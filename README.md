@@ -27,7 +27,7 @@ You will probably want some kind of frequency or transitional probability method
 * What is the pattern for a full-stop '.' ?
 * How many letters would you match with nothing but a pure letter frequency analysis?
 * Careful with the headers! 
-* Test with know encryptions (books you encrypt using the included source code).
+* Test with known encryptions (books you encrypt using the included source code).
 
 ## Note (actually do this)!!
 Thoroughly read the syllabus sections on "Programming assignments" and "Grading". These sections give good tips, tricks, hints, and instructions for programming assignments, including how to submit via Git.
