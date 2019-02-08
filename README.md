@@ -6,7 +6,7 @@ This improved cipher is given to you (the enemy knows the system) in the `simple
 Your job is to write a python script which will crack this encryption in the general case.
 You will probably want some kind of frequency or transitional probability methods.
 
-1. From scratch, write a python3 script called betterSubCrack.py
+1. From scratch, write a python3 script called `betterSubCrack.py`
 
 2. We will execute your script as follows:
 
