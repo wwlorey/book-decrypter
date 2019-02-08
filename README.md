@@ -8,7 +8,7 @@ You will probably want some kind of frequency or transitional probability method
 
 1. From scratch, write a python3 script called `betterSubCrack.py`
 
-2. We will execute your script as follows:
+2. We will execute your script as follows, from the bash command line:
 
     `$ ./betterSubCrack.py name_of_file_to_crack.txt decrypted_file_to_write.txt`
 
@@ -22,12 +22,13 @@ You will probably want some kind of frequency or transitional probability method
 
 6. All files must be utf-8 unix delimted (don't copy/paste from your Windows host, or risk the consequences of bad newlines!)
 
-## Tips and tricks
+## Tips, tricks, reminders
 * What is the most frequent character?
 * What is the pattern for a full-stop '.' ?
 * How many letters would you match with nothing but a pure letter frequency analysis?
 * Careful with the headers! 
 * Test with known encryptions (books you encrypt using the included source code).
+* Remember to name files correctly, and put them in the root directory of the repo. 
 
 ## Note (actually do this)!!
 Thoroughly read the syllabus sections on "Programming assignments" and "Grading". These sections give good tips, tricks, hints, and instructions for programming assignments, including how to submit via Git.
