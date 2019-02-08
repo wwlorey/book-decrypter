@@ -20,7 +20,7 @@ You will probably want some kind of frequency or transitional probability method
 
 5. It must run in python3 in the latest up-to-date stable Debian VM, where we will do all grading. 
 
-6. All files must be utf-8 unix delimted.
+6. All files must be utf-8 unix delimted (don't copy/paste from your Windows host, or risk the consequences of bad newlines!)
 
 ## Tips and tricks
 * What is the most frequent character?
@@ -43,7 +43,7 @@ The remaining 5% will be awarded based on run-time for you main, with the studen
 Time tests will be averaged over many book-encryption cracks for accuracy with students always compared on the same machine/environment.
 
 ## Re-grades and late work
-As with all assignments.
+As with all assignments, detailed in the syllabus.
 
 ## Due date
 Please see the schedule for all due dates.
