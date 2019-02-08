@@ -1,7 +1,7 @@
 # pa01 - Name the book: Write a crack for an improved substitution encryption
 
 ## Assignment description
-The encrypted_book.txt has been encrypted with a more effective version of the substitution cipher which also encrypts spaces and more.
+The `encrypted_book.txt` has been encrypted with a more effective version of the substitution cipher which also encrypts spaces and more.
 This improved cipher is given to you (the enemy knows the system) in the `simpleSubCipher.py`
 Your job is to write a python script which will crack this encryption in the general case.
 You will probably want some kind of frequency or transitional probability methods.
