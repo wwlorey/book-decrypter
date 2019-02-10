@@ -19,3 +19,7 @@ else:
     output_file_name = DEFAULT_OUTPUT_FILE_NAME
 
 print('Input file: %s\nOutput file: %s' % (input_file_name, output_file_name))
+    
+# Read the input file
+with open(input_file_name, 'r') as input_file:
+    encrypted_text = input_file.read()
