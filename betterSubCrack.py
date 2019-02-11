@@ -73,22 +73,16 @@ for letter in encrypted_text:
 
 letter_occurrence_tuples = sorted(letter_to_occurrence.items(), key=lambda x : x[1], reverse=True)
 
-
-possible_cracked_letters = {}
-
-
 # Assume the most frequent letter is space
 space_tuple = letter_occurrence_tuples.pop(0)
 cracked_letters = {}
 cracked_letters[space_tuple[0]] = ' '
-encrypted_text = decrypt(cracked_letters, encrypted_text)
 
 
 # Determine which character is the decrypted period
-possible_cracked_letters['.'] = set()
 last_chars_to_occurrence = {}
 
-for word in [s for s in encrypted_text.split('\n') if len(s)]:
+for word in [s for s in encrypted_text.split('\n\n') if len(s)]:
     char = word[-1].upper()
     if char in SYMBOLS:
         if char in last_chars_to_occurrence:
@@ -97,10 +91,9 @@ for word in [s for s in encrypted_text.split('\n') if len(s)]:
             last_chars_to_occurrence[char] = 1
 
 last_chars_to_occurrence_tuples = sorted(last_chars_to_occurrence.items(), key=lambda x : x[1], reverse=True)
+period_tuple = last_chars_to_occurrence_tuples.pop(0)
 
-# Take the top few and add them as candidates for the period char
-for c in last_chars_to_occurrence_tuples[:math.ceil(len(last_chars_to_occurrence_tuples) * 0.05)]:
-    possible_cracked_letters['.'].add(c)
+cracked_letters[period_tuple[0]] = '.'
 
 
 # Write decrypted text to output file
