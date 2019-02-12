@@ -52,7 +52,6 @@ else:
 
 print('Input file: %s\nOutput file: %s' % (input_file_name, output_file_name))
     
-
 # Read the input file
 with open(input_file_name, 'r') as input_file:
     encrypted_text = input_file.read()
@@ -73,13 +72,14 @@ for letter in encrypted_text:
 
 letter_occurrence_tuples = sorted(letter_to_occurrence.items(), key=lambda x : x[1], reverse=True)
 
-# Assume the most frequent letter is space
-space_tuple = letter_occurrence_tuples.pop(0)
+
 cracked_letters = {}
-cracked_letters[space_tuple[0]] = ' '
+
+# Assume the most frequent letter is space
+cracked_letters[letter_occurrence_tuples[0][0]] = ' '
 
 
-# Determine which character is the decrypted period
+# Decrypt the period char
 last_chars_to_occurrence = {}
 
 for word in [s for s in encrypted_text.split('\n\n') if len(s)]:
@@ -91,9 +91,9 @@ for word in [s for s in encrypted_text.split('\n\n') if len(s)]:
             last_chars_to_occurrence[char] = 1
 
 last_chars_to_occurrence_tuples = sorted(last_chars_to_occurrence.items(), key=lambda x : x[1], reverse=True)
-period_tuple = last_chars_to_occurrence_tuples.pop(0)
 
-cracked_letters[period_tuple[0]] = '.'
+# Assume the period is the most frequently occuring char at the end of paragraphs
+cracked_letters[last_chars_to_occurrence_tuples[0][0]] = '.'
 
 
 # Write decrypted text to output file
