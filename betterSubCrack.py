@@ -96,6 +96,27 @@ last_chars_to_occurrence_tuples = sorted(last_chars_to_occurrence.items(), key=l
 cracked_letters[last_chars_to_occurrence_tuples[0][0]] = '.'
 
 
+# Begin frequency analysis
+# Create word pattern for each cipherword in the ciphertext
+encrypted_word_patterns = {}
+decrypted_text = decrypt(cracked_letters, encrypted_text)
+for word in decrypted_text.split():
+    pattern = ''
+    seen_chars = {}
+    count = 0
+    for char_index, char in enumerate(word):
+        if char_index > 0:
+            pattern += '.'
+
+        if not char in seen_chars:
+            seen_chars[char] = str(count)
+            count += 1
+
+        pattern += seen_chars[char]
+    
+    encrypted_word_patterns[pattern] = None
+
+
 # Write decrypted text to output file
 with open(output_file_name, 'w') as output_file:
     output_file.write(decrypt(cracked_letters, encrypted_text))
