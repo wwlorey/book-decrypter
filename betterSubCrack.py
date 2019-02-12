@@ -27,6 +27,23 @@ def decrypt(cracked_letters, encrypted_text):
             decrypted_text += letter
     
     return decrypted_text
+    
+
+def get_word_pattern(word):
+    pattern = ''
+    seen_chars = {}
+    count = 0
+    for char_index, char in enumerate(word):
+        if char_index > 0:
+            pattern += '.'
+
+        if not char in seen_chars:
+            seen_chars[char] = str(count)
+            count += 1
+
+        pattern += seen_chars[char]
+    
+    return pattern
 
 
 # Constants
@@ -101,20 +118,14 @@ cracked_letters[last_chars_to_occurrence_tuples[0][0]] = '.'
 encrypted_word_patterns = {}
 decrypted_text = decrypt(cracked_letters, encrypted_text)
 for word in decrypted_text.split():
-    pattern = ''
-    seen_chars = {}
-    count = 0
-    for char_index, char in enumerate(word):
-        if char_index > 0:
-            pattern += '.'
-
-        if not char in seen_chars:
-            seen_chars[char] = str(count)
-            count += 1
-
-        pattern += seen_chars[char]
+    encrypted_word_patterns[get_word_pattern(word)] = []
     
-    encrypted_word_patterns[pattern] = None
+# Append matching dictionary words to the encrypted word patterns
+for word in DICTIONARY:
+    pattern = get_word_pattern(word)
+    
+    if pattern in encrypted_word_patterns:
+        encrypted_word_patterns[pattern].append(word)
 
 
 # Write decrypted text to output file
