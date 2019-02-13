@@ -3,12 +3,13 @@
 
 # Inspiration: https://www.nostarch.com/crackingcodes
 
-import copy, simpleSubCipher, wordPatterns, makeWordPatterns, sys
+import copy, simpleSubCipher, wordPatterns, makeWordPatterns, sys, re
 
 # Constants
 DEFAULT_INPUT_FILE_NAME = 'encrypted_book.txt'
 DEFAULT_OUTPUT_FILE_NAME = 'decrypted_book.txt'
 LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ .'
+NON_LETTERS_PATTERN = re.compile('[^A-Z\. ]')
 
 def main():
     # Ensure the expected number of command line arguments is provided
@@ -124,9 +125,6 @@ def hack(encrypted_text):
     # Assume the period is the most frequently occuring char at the end of paragraphs
     encrypted_period = sorted(last_char_occurrences.items(), key=lambda x : x[1], reverse=True)[0][0]
     
-    # Save a copy of the encrypted text with no encrypted periods (for easier cracking later)
-    encrypted_text_copy = encrypted_text.replace(encrypted_period.lower(), '').replace(encrypted_period, '')
-
     # Get a fresh mapping to populate
     cipherletter_map = get_blank_cipherletter_mapping()
     
@@ -135,9 +133,8 @@ def hack(encrypted_text):
     cipherletter_map[encrypted_space] = [' '] 
 
     # Clean up the ciphertext for easier cracking
-    ciphertext = ''.join([c.upper() for c in encrypted_text_copy if c.upper() in LETTERS])
-    cipherword_list = [s for s in ciphertext.split(encrypted_space) if len(s)]
-
+    cipherword_list = [s for s in NON_LETTERS_PATTERN.sub(encrypted_space, encrypted_text.upper()).replace(encrypted_period, '').split(encrypted_space) if s]
+    
     for cipherword in cipherword_list:
         candidateMap = get_blank_cipherletter_mapping()
 
