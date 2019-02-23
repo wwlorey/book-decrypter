@@ -4,6 +4,7 @@
 # Inspiration: https://www.nostarch.com/crackingcodes
 
 import copy, simpleSubCipher, wordPatterns, makeWordPatterns, sys, re
+from detectEnglish import getEnglishCount
 
 # Constants
 DEFAULT_INPUT_FILE_NAME = 'encrypted_book.txt'
@@ -124,14 +125,24 @@ def hack(encrypted_text):
 
     # Assume the period is the most frequently occuring char at the end of paragraphs
     encrypted_period = sorted(last_char_occurrences.items(), key=lambda x : x[1], reverse=True)[0][0]
-    
+
     # Get a fresh mapping to populate
     cipherletter_map = get_blank_cipherletter_mapping()
     
     # Fill in the mapping with known encryptions
     cipherletter_map[encrypted_period] = ['.']
     cipherletter_map[encrypted_space] = [' '] 
-
+    
+    # Exploit Project Gutenberg headers
+    header_text = 'START OF THIS PROJECT GUTENBERG EBOOK'
+    header_start_index = encrypted_text.find('***') + 4
+    if header_start_index < 800 and header_start_index > 0:
+        for plain_text_index, ciphertext_index in zip(range(len(header_text)), range(header_start_index, header_start_index + len(header_text))):
+            plain_text_letter = header_text[plain_text_index]
+            encrypted_letter = encrypted_text[ciphertext_index].upper()
+            
+            cipherletter_map[encrypted_letter] = [plain_text_letter]
+            
     # Clean up the ciphertext for easier cracking
     cipherword_list = [s for s in NON_LETTERS_PATTERN.sub(encrypted_space, encrypted_text.upper()).replace(encrypted_period, '').split(encrypted_space) if s]
     
@@ -151,10 +162,13 @@ def hack(encrypted_text):
         cipherletter_map = intersect_mappings(cipherletter_map, candidateMap)
         
         cipherletter_map, solved_letters = consolidate_mapping(cipherletter_map)
-        
         if len(LETTERS) == len(solved_letters):
             # A valid mapping has been found
-            break
+            # See if it is a good decryption
+            decrypted_text = decrypt_with_cipherletter_mapping(encrypted_text, cipherletter_map)
+            if getEnglishCount(decrypted_text) > 0.9:
+                # This decryption is probably good enough
+                break
 
     return cipherletter_map
 
