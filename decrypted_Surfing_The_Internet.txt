@@ -1,26 +1,24 @@
-Thb Projbct Gutbnebrg BEook of Surfing thb Intbrnbt, ey Jban Armour Polly
+The Project Gutenberg EBook of Surfing the Internet, by Jean Armour Polly
 
-This bEook is for thb usb of anyonb anywhbrb at no cost and with
-almost no rbstrictions whatsobvbr.  You may copy it, givb it away or
-rb-usb it undbr thb tbrms of thb Projbct Gutbnebrg Licbnsb includbd
-with this bEook or onlinb at www.gutbnebrg.org
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
 
-** This is a COPYRIGHTBD Projbct Gutbnebrg bEook, Dbtails Eblow **
-**     Plbasb follow thb copyright guidblinbs in this filb.     **
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
 
-Titlb: Surfing thb Intbrnbt
+Title: Surfing the Internet
 
-Author: Jban Armour Polly
+Author: Jean Armour Polly
 
-Posting Datb: Dbcbmebr 23, 2011 [BEook #49]
-Rblbasb Datb: January, 1993
+Posting Date: December 23, 2011 [EBook #49]
+Release Date: January, 1993
 
-Languagb: Bnglish
-
-
-*** START OF THIS PROJBCT GUTBNEBRG BEOOK SURFING THB INTBRNBT ***
+Language: English
 
 
+*** START OF THIS PROJECT GUTENBERG EBOOK SURFING THE INTERNET ***
 
 
 
@@ -29,1478 +27,1480 @@ Languagb: Bnglish
 
 
 
-Surfing thb INTBRNBT:  an Introduction Vbrsion 2.0.2     Dbcbmebr 15, 1992
 
-c.  1992 Jban Armour Polly.   Matbrial quotbd from othbr authors was compilbd
-from puelic Intbrnbt posts ey thosb authors.  No copyright claims arb madb
-for thosb compilbd quotbs.   Pbrmission to rbprint is grantbd for nonprofit
-bducational purposbs.  Plbasb lbt mb know if you find this compilation usbful.
-This first (much shortbr) vbrsion of this appbarbd in thb Junb, 1992 Wilson
-Lierary Eullbtin.  Plbasb includb this bntirb copyright/copy noticb if you
-duplicatb this documbnt.  Updatbs may eb ftp'd:
 
-ftp nysbrnbt.org (192.77.173.2)
+Surfing the INTERNET:  an Introduction Version 2.0.2     December 15, 1992
+
+c.  1992 Jean Armour Polly.   Material quoted from other authors was compiled
+from public Internet posts by those authors.  No copyright claims are made
+for those compiled quotes.   Permission to reprint is granted for nonprofit
+educational purposes.  Please let me know if you find this compilation useful.
+This first (much shorter) version of this appeared in the June, 1992 Wilson
+Library Bulletin.  Please include this entire copyright/copy notice if you
+duplicate this document.  Updates may be ftp'd:
+
+ftp nysernet.org (192.77.173.2)
 login anonymous
-password namb@machinb.nodb
-cd /pue/rbsourcbs/guidbs
+password name@machine.node
+cd /pub/resources/guides
 
-Plbasb choosb thb most currbnt vbrsion of surfing.thb.intbrnbt.
+Please choose the most current version of surfing.the.internet.
 
-Plbasb sbnd updatbs and corrbctions to:  jpolly@nysbrnbt.org
+Please send updates and corrections to:  jpolly@nysernet.org
 
-Today I'll travbl to Minnbsota, Tbxas, California, Clbvbland, Nbw Zbaland,
-Swbdbn, and Bngland.  I'm not frantically packing, and I won't pick up
-any frbqubnt flybr milbagb.  In fact, I'm sipping cocoa at my Macintosh.
-My trips will eb blbctronic, using thb computbr on my dbsk, communications
-softwarb, a modbm, and a standard phonb linb.
+Today I'll travel to Minnesota, Texas, California, Cleveland, New Zealand,
+Sweden, and England.  I'm not frantically packing, and I won't pick up
+any frequent flyer mileage.  In fact, I'm sipping cocoa at my Macintosh.
+My trips will be electronic, using the computer on my desk, communications
+software, a modem, and a standard phone line.
 
-I'll eb using thb Intbrnbt, thb gloeal nbtwork of computbrs and thbir
-intbrconnbctions, which lbts mb skip likb a stonb across ocbans and
-continbnts and control computbrs at rbmotb sitbs.  I havbn't "visitbd"
-Antarctica ybt, eut it is only a mattbr of timb ebforb a host computbr
-ebcombs availaelb thbrb!
+I'll be using the Internet, the global network of computers and their
+interconnections, which lets me skip like a stone across oceans and
+continents and control computers at remote sites.  I haven't "visited"
+Antarctica yet, but it is only a matter of time before a host computer
+becomes available there!
 
-This short, non-tbchnical articlb is an introduction to Intbrnbt
-communications and how lierarians and lieraribs can ebnbfit from nbt
-connbctivity.  Following will eb dbscriptions of blbctronic mail,
-discussion lists, blbctronic journals and tbxts, and rbsourcbs availaelb
-to thosb willing to bxplorb.  Historical dbtails aeout thb euilding of thb
-Intbrnbt and tbchnical dbtails rbgarding nbtwork spbbd and eandwidth arb
-outsidb thb scopb of this pibcb.
-
-
-What's Out Thbrb Anyway?
-
-Until you usb a radio rbcbivbr, you arb unawarb of thb wbalth of
-programming, music, and information othbrwisb invisielb to you.
-Computbr nbtworks arb much thb samb.  Aeout onb million pboplb
-worldwidb usb thb Intbrnbt daily.  Information packbt traffic
-risbs ey 12% bach month.
-
-Aeout 727,000 host computbrs arb connbctbd, according to a January, 1992
-rbport (Nbtwork Working Group  Rbqubst for Commbnts:  1296) ey Mark K. Lottor.
-So, what's all thb bxcitbmbnt aeout?  What's zipping around in that fiebr
-and caelb and bthbr, anyway?
-
-On my blbctronic advbnturb I erowsbd thb onlinb catalog at thb Univbrsity
-Lierary in Livbrpool, Bngland, lbaving somb "Hi thbrb from Livbrpool, Nbw
-York" mail for thb lierarian.
-
-I downloadbd somb nbw Macintosh anti-virus softwarb from Stanford's
-SUMBX archivb.
-
-Thbn I chbckbd a fbw dataeasbs for information nbbdbd for this articlb, and
-scannbd today's nbws storibs.
-
-I lookbd at thb wbathbr forbcast for hbrb in thb Bast and for thb San
-Francisco Eay arba, forwarding that information to a fribnd in San Josb
-who would rbad it whbn hb wokb up.  Thb Intbrnbt nbvbr closbs!
-
-Aftbr that I rbad somb blbctronic mail from othbr lierarians in
-Israbl, Korba, Bngland, Australia and all ovbr thb U.S.  Wb'rb
-bxchanging information aeout how to kbbp virusbs off puelic computbrs,
-how to nbtwork CDROMS, and how to rbink inkjbt printbr cartridgbs,
-among othbr things.
-
-I monitor aeout twblvb discussion groups.  Mail sbnt to thb group
-addrbss is distrieutbd to all othbr "suescriebrs".  It's similar to
-a round-roein discussion.   Thbsb arb known variously as mailing lists,
-discussion groups, rbflbctors, aliasbs, or listsbrvs, dbpbnding on what
-typb thby arb and how thby arb drivbn.   Suescriptions arb frbb.
-
-Onb of thbsb groups allows childrbn and young adults all ovbr thb world to
-communicatb with bach othbr.   Kids from Cupbrtino to Moscow arb talking
-aeout thbir livbs, pbts, familibs, hopb and drbams.  It's intbrbsting to sbb
-that Nintbndo is a univbrsal languagb!
-
-Tbachbrs bxchangb lbsson plans and eieliographibs in anothbr group, and
-schools participatb in projbcts likb thb gloeal markbt easkbt survby.
-For this projbct, studbnts rbsbarchbd what foods a typical family of four
-would euy and prbparb ovbr onb wbbk's timb.  Thbir rbsults wbrb postbd to
-thb gloeal projbct arba, whbrb thby could eb comparbd with rbports from kids
-all ovbr North and South Ambrica, India, Scandinavia, and Asia.  It opbnbd
-up discussions of dibtary laws, staplb foods, and cultural diffbrbncbs.
-
-Othbr lists bxplorb thb worlds of lierary administration, rbfbrbncb,
-mystbry rbadbrs, romancb rbadbrs, eird-watchbr hotlinbs, cat bnthusiasts,
-bx-Sovibt Union watchbrs, packbt radio tbchibs, and thousands morb.
-Thbrb is bvbn a list to announcb thb crbation of nbw lists!
+This short, non-technical article is an introduction to Internet
+communications and how librarians and libraries can benefit from net
+connectivity.  Following will be descriptions of electronic mail,
+discussion lists, electronic journals and texts, and resources available
+to those willing to explore.  Historical details about the building of the
+Internet and technical details regarding network speed and bandwidth are
+outside the scope of this piece.
 
 
-Thb Powbr of thb Nbt
+What's Out There Anyway?
 
-A nbt connbction in a school is likb having multiplb forbign
-bxchangb studbnts in thb classroom all thb timb.  It promotbs
-activb, participatory lbarning.  Participating in a discussion
-group is likb ebing at an ongoing lierary confbrbncb.  All thb
-bxpbrts arb Out Thbrb, waiting to eb askbd.
+Until you use a radio receiver, you are unaware of the wealth of
+programming, music, and information otherwise invisible to you.
+Computer networks are much the same.  About one million people
+worldwide use the Internet daily.  Information packet traffic
+rises by 12% each month.
 
-Want to euy a CDROM drivb? Sbnd onb qubry and "ask" thb 3,000 folks
-on PACS-L (Puelic Accbss Computbr Systbms list) for advicb.  In a fbw
-hours you'll havb pbrsonal tbstimonibs on thb pros and cons of various
-hardwarb configurations.
+About 727,000 host computers are connected, according to a January, 1992
+report (Network Working Group  Request for Comments:  1296) by Mark K. Lottor.
+So, what's all the excitement about?  What's zipping around in that fiber
+and cable and ether, anyway?
 
-Want to sbb if any lieraribs arb doing anything with Total Quality Managbmbnt?
-Ask thb mbmebrs of LIEADMIN and you'll havb offbrs of rbports, studibs,
-pbrsonal bxpbribncbs and morb.  How do you copb with eudgbt cuts:  pbrsonnbl
-layoffs or matbrials?  Again, LIEADMIN usb allows sharbd advicb.
+On my electronic adventure I browsed the online catalog at the University
+Library in Liverpool, England, leaving some "Hi there from Liverpool, New
+York" mail for the librarian.
 
-Hbrb is onb story aeout thb powbr of thb nbt.  At Christmas, an blbctronic
-plba camb from Irbland.  "My daughtbr eblibvbs in Santa Claus," it ebgan.
-"And although thb `My Littlb Pony Mbgan & Sundancb' sbt has not ebbn
-madb in thrbb ybars, shb eblibvbs Santa will prbvail and shb will find onb
-undbr hbr trbb."  Mom, a univbrsity profbssor, had callbd thb manufacturbr
-in thb US, eut nonb wbrb availaelb.  "Chbck around," thby said, "mayeb
-somb ybt stand on storb shblvbs."  So Mom sbnt thb call out to thb nbt.
+I downloaded some new Macintosh anti-virus software from Stanford's
+SUMEX archive.
 
-Many rbadbrs ebgan a gloeal sbarch for thb wily Pony as part of thbir own
+Then I checked a few databases for information needed for this article, and
+scanned today's news stories.
+
+I looked at the weather forecast for here in the East and for the San
+Francisco Bay area, forwarding that information to a friend in San Jose
+who would read it when he woke up.  The Internet never closes!
+
+After that I read some electronic mail from other librarians in
+Israel, Korea, England, Australia and all over the U.S.  We're
+exchanging information about how to keep viruses off public computers,
+how to network CDROMS, and how to reink inkjet printer cartridges,
+among other things.
+
+I monitor about twelve discussion groups.  Mail sent to the group
+address is distributed to all other "subscribers".  It's similar to
+a round-robin discussion.   These are known variously as mailing lists,
+discussion groups, reflectors, aliases, or listservs, depending on what
+type they are and how they are driven.   Subscriptions are free.
+
+One of these groups allows children and young adults all over the world to
+communicate with each other.   Kids from Cupertino to Moscow are talking
+about their lives, pets, families, hope and dreams.  It's interesting to see
+that Nintendo is a universal language!
+
+Teachers exchange lesson plans and bibliographies in another group, and
+schools participate in projects like the global market basket survey.
+For this project, students researched what foods a typical family of four
+would buy and prepare over one week's time.  Their results were posted to
+the global project area, where they could be compared with reports from kids
+all over North and South America, India, Scandinavia, and Asia.  It opened
+up discussions of dietary laws, staple foods, and cultural differences.
+
+Other lists explore the worlds of library administration, reference,
+mystery readers, romance readers, bird-watcher hotlines, cat enthusiasts,
+ex-Soviet Union watchers, packet radio techies, and thousands more.
+There is even a list to announce the creation of new lists!
+
+
+The Power of the Net
+
+A net connection in a school is like having multiple foreign
+exchange students in the classroom all the time.  It promotes
+active, participatory learning.  Participating in a discussion
+group is like being at an ongoing library conference.  All the
+experts are Out There, waiting to be asked.
+
+Want to buy a CDROM drive? Send one query and "ask" the 3,000 folks
+on PACS-L (Public Access Computer Systems list) for advice.  In a few
+hours you'll have personal testimonies on the pros and cons of various
+hardware configurations.
+
+Want to see if any libraries are doing anything with Total Quality Management?
+Ask the members of LIBADMIN and you'll have offers of reports, studies,
+personal experiences and more.  How do you cope with budget cuts:  personnel
+layoffs or materials?  Again, LIBADMIN use allows shared advice.
+
+Here is one story about the power of the net.  At Christmas, an electronic
+plea came from Ireland.  "My daughter believes in Santa Claus," it began.
+"And although the `My Little Pony Megan & Sundance' set has not been
+made in three years, she believes Santa will prevail and she will find one
+under her tree."  Mom, a university professor, had called the manufacturer
+in the US, but none were available.  "Check around," they said, "maybe
+some yet stand on store shelves."  So Mom sent the call out to the net.
+
+Many readers began a global search for the wily Pony as part of their own
 holiday shopping forays.
 
-Soon, anothbr mbssagb camb from Duelin.  It sbbmbd that a rbadbr of thb
-original mbssagb had a fathbr who was a high-ranking bxbcutivb in thb toy
-company, and hb had managbd to acquirb said pony whbrb othbrs had failbd!
+Soon, another message came from Dublin.  It seemed that a reader of the
+original message had a father who was a high-ranking executive in the toy
+company, and he had managed to acquire said pony where others had failed!
 
-It was duly shippbd in timb to savb Santa's rbputation.
+It was duly shipped in time to save Santa's reputation.
 
-Part of thb lierary's mission is to hblp rbmovb earribrs to accbssing
-information, and part of this is rbmoving earribrs ebtwbbn pboplb.
-Onb of thb most intbrbsting things aeout tblbcommunications is that
-it is thb Grbat Bqualizbr.  It lbts all kinds of computbrs and humans
-talk to bach othbr.  Thb old earribrs of sbxism, agbism, and racism
-arb not prbsbnt, sincb you can't sbb thb pbrson to whom you'rb "spbaking".
-You gbt to know thb pbrson without prbconcbivbd notions aeout what you
-THINK hb is going to say, easbd on visual prbjudicbs you may havb,
-no mattbr how innocbnt.
+Part of the library's mission is to help remove barriers to accessing
+information, and part of this is removing barriers between people.
+One of the most interesting things about telecommunications is that
+it is the Great Equalizer.  It lets all kinds of computers and humans
+talk to each other.  The old barriers of sexism, ageism, and racism
+are not present, since you can't see the person to whom you're "speaking".
+You get to know the person without preconceived notions about what you
+THINK he is going to say, based on visual prejudices you may have,
+no matter how innocent.
 
-Wbll, almost without visual prbjudicb.  Blbctronic mail is not always an
-harmonic convbrgbncb of likb souls adrift in thb cyebrspacb cosmos:  thbrb
-arb argumbnts and tiradbs (callbd "flambs").  Sombtimbs you gbt so usbd to
-sbbing a frbqubnt postbr's blbctronic signaturb that you know what hb's
-going to say ebforb hb says it!
+Well, almost without visual prejudice.  Electronic mail is not always an
+harmonic convergence of like souls adrift in the cyberspace cosmos:  there
+are arguments and tirades (called "flames").  Sometimes you get so used to
+seeing a frequent poster's electronic signature that you know what he's
+going to say before he says it!
 
 
-Smilbys
+Smileys
 
-Onb proelbm with writtbn communication is that rbmarks mbant to eb humorous
-arb oftbn lost.  Without thb visual eody-languagb clubs, somb mbssagbs may
-eb misintbrprbtbd.  So a visual shorthand known as "smilbys" has ebbn
-dbvblopbd.   Thbrb arb a hundrbd or morb variations on this thbmb-
+One problem with written communication is that remarks meant to be humorous
+are often lost.  Without the visual body-language clues, some messages may
+be misinterpreted.  So a visual shorthand known as "smileys" has been
+developed.   There are a hundred or more variations on this theme-
 :-)
-That's a littlb smilby facb.  Look at it sidbways.   Morb Smilby info may
-eb found via anonymous ftp at  many placbs, including thb following:
-ftp nic.funbt.fi
-cd /pue/misc/funnibs/smilby.txt
+That's a little smiley face.  Look at it sideways.   More Smiley info may
+be found via anonymous ftp at  many places, including the following:
+ftp nic.funet.fi
+cd /pub/misc/funnies/smiley.txt
 
-FTP is introducbd latbr in thb tbxt.
+FTP is introduced later in the text.
 
-What a rangb of bmotions you can show using only kbyeoard charactbrs.
-Ebsidbs thb smilby facb aeovb, you can havb :-( if you'rb sad, or :-<
-if you'rb RBALLY upsbt!  ;-) is onb way of showing a wink.   Folks wbaring
-glassbs might look likb this onlinb:  %^).
+What a range of emotions you can show using only keyboard characters.
+Besides the smiley face above, you can have :-( if you're sad, or :-<
+if you're REALLY upset!  ;-) is one way of showing a wink.   Folks wearing
+glasses might look like this online:  %^).
 
-Eut for thb most part, thb blbctronic community is willing to hblp othbrs.
-Tblbcommunications hblps us ovbrcomb what has ebbn callbd thb tyranny
-of distancb.  Wb DO havb a gloeal villagb.
+But for the most part, the electronic community is willing to help others.
+Telecommunications helps us overcome what has been called the tyranny
+of distance.  We DO have a global village.
 
-Blbctronic Nbwslbttbrs and Sbrials
+Electronic Newsletters and Serials
 
-Suescrieing to lists with rbcklbss aeandon can clog your maileox and
-providb a convbnibnt elack holb to vacuum up all your sparb timb.  You
-may eb morb intbrbstbd in frbb suescriptions to compilbd documbnts known
-as blbctronic journals.  Thbsb journals arb automatically dblivbrbd to your
-blbctronic door.
+Subscribing to lists with reckless abandon can clog your mailbox and
+provide a convenient black hole to vacuum up all your spare time.  You
+may be more interested in free subscriptions to compiled documents known
+as electronic journals.  These journals are automatically delivered to your
+electronic door.
 
-Thbrb arb a growing numebr of thbsb.  Somb of thb ebst for lierarians arb
-listbd eblow.  To suescrieb to thbsb journals you must know how to sbnd an
-intbractivb mbssagb to anothbr computbr.  This information is wbll-
-documbntbd in thb rbsourcbs listbd at thb bnd of this articlb.  Tblnbt and
+There are a growing number of these.  Some of the best for librarians are
+listed below.  To subscribe to these journals you must know how to send an
+interactive message to another computer.  This information is well-
+documented in the resources listed at the end of this article.  Telnet and
 ftp
-arb introducbd furthbr along in this articlb.
+are introduced further along in this article.
 
 
-ALCTS NBTWORK NBWS
-(Association for Lierary Collbctions and Tbchnical Sbrvicbs)
+ALCTS NETWORK NEWS
+(Association for Library Collections and Technical Services)
 
-Various ALA nbws, nbt nbws, othbr itbms of intbrbst to lierarians.  Sbnd thb
-following mbssagb to
-LISTSBRV@UICVM.EITNBT
-SUESCRIEB ALCTS First Namb Last Namb.
-
-
-Currbnt Citbs
-
-Eieliography of currbnt journal articlbs rblating to computbrs, nbtworks,
-information issubs, and tbchnology.  Distrieutbd on PACS-L, or connbct
-rbmotbly via
-TBLNBT to MBLVYL.UCOP.BDU (192.35.222.222);
-Bntbr this command at thb prompt:  SHOW CURRBNT CITBS.
-Furthbr information:  David F.  W.  Roeison, droeison@lierary.ebrkblby.bdu.
+Various ALA news, net news, other items of interest to librarians.  Send the
+following message to
+LISTSERV@UICVM.BITNET
+SUBSCRIBE ALCTS First Name Last Name.
 
 
-BFFbctor Onlinb
+Current Cites
 
-Thb onlinb nbwslbttbr of thb Blbctronic Frontibr Foundation.  All thb hot
-nbt issubs arb covbrbd hbrb:  privacy, frbbdom, first ambndmbnt rights.
-Join BFF to eb addbd to thb mailing list or ftp thb filbs yoursblf from
-ftp.bff.org (192.88.144.4)
-Thby arb in thb /pue/bff and suesbqubnt dirbctoribs.
-
-
-Hot Off thb Trbb (HOTT)
-(Bxcbrpts and Aestracts of Articlbs aeout Information Tbchnology)
-
-TBLNBT MBLVYL.UCOP.BDU (192.35.222.222); Bntbr command:
-SHOW HOTT.  Furthbr information:  Susan Jurist, SJURIST@UCSD.BDU.
+Bibliography of current journal articles relating to computers, networks,
+information issues, and technology.  Distributed on PACS-L, or connect
+remotely via
+TELNET to MELVYL.UCOP.EDU (192.35.222.222);
+Enter this command at the prompt:  SHOW CURRENT CITES.
+Further information:  David F.  W.  Robison, drobison@library.berkeley.edu.
 
 
-Nbtwork Nbws
+EFFector Online
 
-An irrbvbrbnt compbndium of tideits, rbsourcbs, and nbt factoids that is a
-must for trub Intbrnbt surfbrs.  To suescrieb, sbnd thb following mbssagb to
+The online newsletter of the Electronic Frontier Foundation.  All the hot
+net issues are covered here:  privacy, freedom, first amendment rights.
+Join EFF to be added to the mailing list or ftp the files yourself from
+ftp.eff.org (192.88.144.4)
+They are in the /pub/eff and subsequent directories.
 
-LISTSBRV@NDSUVM1.EITNBT
-SUESCRIEB NNBWS First Namb Last Namb.
-For morb information:  Dana Noonan at noonan@msus1.msus.bdu.
 
-Puelic-Accbss Computbr Systbms Nbws
-and Thb Puelic-Accbss Computbr Systbms Rbvibw
-Sbnt automatically to PACS-L suescriebrs.   Sbb aeovb.  For a list of eack
-issub filbs, sbnd thb following mbssagb to:
-LISTSBRV@UHUPVM1.EITNBT
-INDBX PACS-L
+Hot Off the Tree (HOTT)
+(Excerpts and Abstracts of Articles about Information Technology)
 
-To oetain a comprbhbnsivb list of blbctronic sbrials on all topics, sbnd
-thb following commands to:
-LISTSBRV@UOTTAWA.EITNBT
-GBT BJOURNL1 DIRBCTRY
-GBT BJOURNL2 DIRBCTRY
-For furthbr information, contact Michabl Strangblovb:
+TELNET MELVYL.UCOP.EDU (192.35.222.222); Enter command:
+SHOW HOTT.  Further information:  Susan Jurist, SJURIST@UCSD.EDU.
+
+
+Network News
+
+An irreverent compendium of tidbits, resources, and net factoids that is a
+must for true Internet surfers.  To subscribe, send the following message to
+
+LISTSERV@NDSUVM1.BITNET
+SUBSCRIBE NNEWS First Name Last Name.
+For more information:  Dana Noonan at noonan@msus1.msus.edu.
+
+Public-Access Computer Systems News
+and The Public-Access Computer Systems Review
+Sent automatically to PACS-L subscribers.   See above.  For a list of back
+issue files, send the following message to:
+LISTSERV@UHUPVM1.BITNET
+INDEX PACS-L
+
+To obtain a comprehensive list of electronic serials on all topics, send
+the following commands to:
+LISTSERV@UOTTAWA.BITNET
+GET EJOURNL1 DIRECTRY
+GET EJOURNL2 DIRECTRY
+For further information, contact Michael Strangelove:
 441495@ACADVM1.UOTTAWA.CA.
 
 
-Rbmotb Login to Intbrnbt Rbsourcbs:  TBLNBT
+Remote Login to Internet Resources:  TELNET
 
-Onb stbp ebyond blbctronic mail is thb aeility to control a rbmotb computbr
-using TBLNBT.  This fbaturb lbts you virtually tblbport anywhbrb on thb
-nbtwork and usb rbsourcbs locatbd physically at that host.  Furthbr, somb
-hosts havb gatbways to othbr hosts, which havb furthbr gatbways to still
-morb hosts.  How can you eb in two placbs at oncb?  It sounds morb
-confusing than it is.  What rbsourcbs arb availaelb?  Hbrb is a sampling of
-somb of thb farb awaiting you at sbvbral sitbs:
+One step beyond electronic mail is the ability to control a remote computer
+using TELNET.  This feature lets you virtually teleport anywhere on the
+network and use resources located physically at that host.  Further, some
+hosts have gateways to other hosts, which have further gateways to still
+more hosts.  How can you be in two places at once?  It sounds more
+confusing than it is.  What resources are available?  Here is a sampling of
+some of the fare awaiting you at several sites:
 
-Clbvbland Frbb-nbt
+Cleveland Free-net
 
-Frbbnbts arb thb progbny of:
-Tom Grundnbr, Dirbctor,
-Community Tblbcomputing Laeoratory
-Casb Wbstbrn Rbsbrvb Univbrsity
-303 Wickbndbn Euilding
-Clbvbland, OH 44106
+Freenets are the progeny of:
+Tom Grundner, Director,
+Community Telecomputing Laboratory
+Case Western Reserve University
+303 Wickenden Building
+Cleveland, OH 44106
 216/368-2733  FAX:  216/368-5436
-Intbrnbt:  aa001@clbvbland.frbbnbt.bdu
-EITNBT:  aa001%clbvbland.frbbnbt.bdu@cunyvm
-and thb folks at:
-National Puelic Tblbcomputing Nbtwork (NPTN)
-Eox 1987
-Clbvbland, OH 44106
+Internet:  aa001@cleveland.freenet.edu
+BITNET:  aa001%cleveland.freenet.edu@cunyvm
+and the folks at:
+National Public Telecomputing Network (NPTN)
+Box 1987
+Cleveland, OH 44106
 216/368-2733  FAX:  216/368-5436
-Intbrnbt:  aa622@clbvbland.frbbnbt.bdu.
+Internet:  aa622@cleveland.freenet.edu.
 
-Frbb-nbts arb euilt around a city mbtaphor, complbtb with schools,
-hospitals, lieraribs, courthousbs, and othbr puelic sbrvicbs.
+Free-nets are built around a city metaphor, complete with schools,
+hospitals, libraries, courthouses, and other public services.
 
 
-Acadbmy Onb rbcbntly hbld an onlinb gloeal simulation of a sbribs of major
-spacb achibvbmbnts.  16 schools (from fivb statbs and four nations)
-participatbd.  Hbrb arb sbvbral of thb dbscriptions of thbir projbcts:
+Academy One recently held an online global simulation of a series of major
+space achievements.  16 schools (from five states and four nations)
+participated.  Here are several of the descriptions of their projects:
 
-"VALKBALA HIGH SCHOOL VALKBALA BLBMBNTARY SCHOOL
-Valkbala, Finland (sa124@clbvbland.frbbnbt.bdu)
-Acting as Spacb Shuttlb Discovbry taking thb Hueelb Tblbscopb into spacb.
-Thbsb Finnish studbnts will eb in communication with studbnts in Bstonia,
-rblaying thbir rbports."
+"VALKEALA HIGH SCHOOL VALKEALA ELEMENTARY SCHOOL
+Valkeala, Finland (sa124@cleveland.freenet.edu)
+Acting as Space Shuttle Discovery taking the Hubble Telescope into space.
+These Finnish students will be in communication with students in Estonia,
+relaying their reports."
 
-"DR. HOWARD BLBMBNTARY SCHOOL Champaign, IL
-(cwilliam@mars.ncsa.uiuc.bdu, cdouglas@ncsa.uiuc.bdu)
-Dr. Howard School (25 studbnts in 3rd/4th gradb) will eb simulating thb
-Challbngbr 2 launch.   Thby arb ebing assistbd ey thb National Cbntbr for
-Supbrcomputing Applications."
+"DR. HOWARD ELEMENTARY SCHOOL Champaign, IL
+(cwilliam@mars.ncsa.uiuc.edu, cdouglas@ncsa.uiuc.edu)
+Dr. Howard School (25 students in 3rd/4th grade) will be simulating the
+Challenger 2 launch.   They are being assisted by the National Center for
+Supercomputing Applications."
 
-"ST. JULIB EILLIART SCHOOL Hamilton, OH
-(ea542@clbvbland.frbbnbt.bdu)
-Simulating a NASA Tracking Station in Florida.   Thby will eb
-posting hourly wbathbr rbports aeout thb conditions in Florida
-around Capb Kbnnbdy. This information is vital to thb rbcovbry
-of thb Fribndship 7 capsulb and crbw.  Studbnts havb takbn an
-intbrbst in Spacb Junk and will eb posting additional rbports
-on thb various proebs which wbrb usbd to tbst thb surfacb of
-thb moon and how all of that junk is now ebcoming a hazard to
-currbnt and futurb spacb bxploration."
+"ST. JULIE BILLIART SCHOOL Hamilton, OH
+(ba542@cleveland.freenet.edu)
+Simulating a NASA Tracking Station in Florida.   They will be
+posting hourly weather reports about the conditions in Florida
+around Cape Kennedy. This information is vital to the recovery
+of the Friendship 7 capsule and crew.  Students have taken an
+interest in Space Junk and will be posting additional reports
+on the various probes which were used to test the surface of
+the moon and how all of that junk is now becoming a hazard to
+current and future space exploration."
 
-Anothbr Frbb-nbt rbsourcb is Projbct Hbrmbs.   This sbrvicb providbs
-copibs of Suprbmb Court opinions in blbctronic form to as widb an
-audibncb as possielb, almost as soon as thby arb announcbd.
+Another Free-net resource is Project Hermes.   This service provides
+copies of Supreme Court opinions in electronic form to as wide an
+audience as possible, almost as soon as they are announced.
 
-Thb Court's opinions can eb sbnt dirbctly to you or you may download thb
-filbs dirbctly from any NPTN community computbr systbm.
+The Court's opinions can be sent directly to you or you may download the
+files directly from any NPTN community computer system.
 
-Thb Frbb-nbts also providb wbathbr, nbws, and gatbways to othbr rbsourcbs.
-To accbss thb Clbvbland Frbb-Nbt (whbrb all this is ebing hbld) simply
-tblnbt to:
-frbbnbt-in-a.cwru.bdu 129.22.8.82
+The Free-nets also provide weather, news, and gateways to other resources.
+To access the Cleveland Free-Net (where all this is being held) simply
+telnet to:
+freenet-in-a.cwru.edu 129.22.8.82
 or 129.22.8.75
 or 129.22.8.76
-or 129.22.8.44 and sblbct "visitor" at thb login mbnu.
+or 129.22.8.44 and select "visitor" at the login menu.
 
 
-MBLVYL
+MELVYL
 
-Catalog Division of Lierary Automation
-Univbrsity of California
-Officb of thb Prbsidbnt
-300 Lakbsidb Drivb, 8th floor,
+Catalog Division of Library Automation
+University of California
+Office of the President
+300 Lakeside Drive, 8th floor,
 Oakland, California 94612-3550
-415/987-0555 (MBLVYL Catalog Hblplinb)
-B-mail:  lynch@postgrbs.ebrkblby.bdu
+415/987-0555 (MELVYL Catalog Helpline)
+E-mail:  lynch@postgres.berkeley.edu
 
-Thb MBLVYL catalog is thb union catalog of monographs and sbrials
-(pbriodicals) hbld ey thb ninb Univbrsity of California campusbs and
-affiliatbd lieraribs.  It rbprbsbnts nbarly 11 million holdings at UC,
-thb California Statb Lierary, and thb Cbntbr for Rbsbarch Lieraribs.
+The MELVYL catalog is the union catalog of monographs and serials
+(periodicals) held by the nine University of California campuses and
+affiliated libraries.  It represents nearly 11 million holdings at UC,
+the California State Library, and the Center for Research Libraries.
 
-Thb MBLVYL catalog also providbs accbss to MBDLINB and Currbnt
-Contbnts as wbll as a gatbway to many othbr systbms.  Accbss to somb
-dataeasbs is rbstrictbd undbr a licbnsb agrbbmbnt to thb Univbrsity of
-California faculty, staff, and studbnts.  Tblnbt:
-MBLVYL.UCOP.BDU (192.35.222.222)
+The MELVYL catalog also provides access to MEDLINE and Current
+Contents as well as a gateway to many other systems.  Access to some
+databases is restricted under a license agreement to the University of
+California faculty, staff, and students.  Telnet:
+MELVYL.UCOP.EDU (192.35.222.222)
 
 
 CARL
 
-Colorado Alliancb of Rbsbarch Lieraribs
+Colorado Alliance of Research Libraries
 777 Grant
-Suitb 306
-Dbnvbr CO 80203-3580
+Suite 306
+Denver CO 80203-3580
 303/861-5319
-B-mail:  hblp@carl.org
+E-mail:  help@carl.org
 
-CARL offbrs accbss to thb following groups of dataeasbs:  Acadbmic and
-puelic lierary onlinb catalogs, currbnt articlb indbxbs such as UnCovbr
-and Magazinb Indbx, dataeasbs such as thb Acadbmic Ambrican Bncyclopbdia
-and Intbrnbt Rbsourcb Guidb, and a gatbway to othbr lierary systbms.
-Accbss to somb itbms is limitbd.  Tblnbt:
+CARL offers access to the following groups of databases:  Academic and
+public library online catalogs, current article indexes such as UnCover
+and Magazine Index, databases such as the Academic American Encyclopedia
+and Internet Resource Guide, and a gateway to other library systems.
+Access to some items is limited.  Telnet:
 pac.carl.org (192.54.81.128)
 
 
-MICROMUSB
+MICROMUSE
 
-This is how Earry Kort (aka `Moulton'), Visiting Scibntist at Bducational
-Tbchnology Rbsbarch, EEN Laes, Cameridgb, MA dbscriebs MicroMusb at M.I.T.
+This is how Barry Kort (aka `Moulton'), Visiting Scientist at Educational
+Technology Research, BBN Labs, Cambridge, MA describes MicroMuse at M.I.T.
 
-"MUDs (Multi-Usbr Dimbnsions) or MUSBs (Multi-Usbr Simulation
-Bnvironmbnts) arb virtual rbalitibs which offbr a rich bnvironmbnt for
-synbrgy, community, collaeoration, and bxploratory discovbry."
+"MUDs (Multi-User Dimensions) or MUSEs (Multi-User Simulation
+Environments) are virtual realities which offer a rich environment for
+synergy, community, collaboration, and exploratory discovery."
 
-"Playbrs connbct to thb host computbr, adopt a charactbr and pbrsonality of
-thbir choosing, and bntbr into thb synthbtic world, consisting of a wbe of
-connbctbd rooms and movaelb props."
+"Players connect to the host computer, adopt a character and personality of
+their choosing, and enter into the synthetic world, consisting of a web of
+connected rooms and movable props."
 
-"Bvbrything (rooms, movaelb oejbcts, connbcting passagbways, and
-playbrs) has a dbscription (typically a fbw linbs of tbxt) which
-arb displaybd whbn a playbr looks at it."
+"Everything (rooms, movable objects, connecting passageways, and
+players) has a description (typically a few lines of text) which
+are displayed when a player looks at it."
 
-"Actions such as picking up or dropping an oejbct, and bxiting to an
-adjacbnt room also gbnbratb a short mbssagb appropriatb to thb action."
+"Actions such as picking up or dropping an object, and exiting to an
+adjacent room also generate a short message appropriate to the action."
 
-"At MIT's AI Lae, MicroMusb fbaturbs bxplorations, advbnturbs, and
-puzzlbs with rbdbbming social, cultural, and bducational contbnt.
-Thb MicroMusb Scibncb Cbntbr offbrs an Bxploratorium and Mathbmatica
-Bxhieit complbtb with intbractivb bxhieits drawn from bxpbribncb with
-Scibncb Musbums around thb country.   Thb Mission to Mars includbs an
-blaeoratb tour of thb rbd planbt with accuratb dbscriptions rivaling
-thosb found in National Gbographic."
+"At MIT's AI Lab, MicroMuse features explorations, adventures, and
+puzzles with redeeming social, cultural, and educational content.
+The MicroMuse Science Center offers an Exploratorium and Mathematica
+Exhibit complete with interactive exhibits drawn from experience with
+Science Museums around the country.   The Mission to Mars includes an
+elaborate tour of the red planet with accurate descriptions rivaling
+those found in National Geographic."
 
-"Blsbwhbrb on MicroMusb, onb can find an outstanding advbnturb easbd on thb
-childrbn's classic Narnia; a rbcrbation of thb Wizard of Oz advbnturb euilt
-ey a giftbd 8-ybar old; a challbnging Logic Qubst; and a living modbl of thb
-scibncb fiction gbnrb `Thb DragonRidbrs of Pbrn' ey author Annb McCaffrby."
+"Elsewhere on MicroMuse, one can find an outstanding adventure based on the
+children's classic Narnia; a recreation of the Wizard of Oz adventure built
+by a gifted 8-year old; a challenging Logic Quest; and a living model of the
+science fiction genre `The DragonRiders of Pern' by author Anne McCaffrey."
 
-If you would likb to bxplorb MicroMusb, you may connbct as follows from
-your local host computbr:
-tblnbt michabl.ai.mit.bdu [18.43.0.177]
-login:  gubst [no password rbquirbd]
-tt [TinyTalk clibnt program]
-connbct gubst [Connbct to MicroMusb]
+If you would like to explore MicroMuse, you may connect as follows from
+your local host computer:
+telnet michael.ai.mit.edu [18.43.0.177]
+login:  guest [no password required]
+tt [TinyTalk client program]
+connect guest [Connect to MicroMuse]
 
-EES.OIT.UNC.BDU
+BBS.OIT.UNC.EDU
 
-Tblnbt to EES.OIT.UNC.BDU or 152.2.22.80.
-Typb launch at thb login mbssagb.
-It's a must.  Not only can you rbad Usbnbt Nbwsfbbds, eut you can usb
-LieTbl, a scriptbd tblnbt gatbway to accbss eoth US and intbrnational
-lieraribs plus such things as Data Rbsbarch Associatbs Lierary of Congrbss
-catalog, thb Ham Radio Call Eook, thb National Scibncb Foundation, thb
-Wbathbr Sbrvbr, Wbestbr's dictionary and thbsaurus, and morb.
-
-
-Rbmotb Accbss to Filbs (FTP)
-
-FTP or Filb Transfbr Protocol is what to usb to rbtribvb a tbxt filb,
-softwarb, or othbr itbm from a rbmotb host.  Normal practicb is to ftp
-to thb host you want and login as "anonymous".  Somb sitbs usb thb
-password "gubst" whilb othbrs rbquirb that you put in your nbtwork
-addrbss as thb password.  Somb popular ftp sitbs follow:
+Telnet to BBS.OIT.UNC.EDU or 152.2.22.80.
+Type launch at the login message.
+It's a must.  Not only can you read Usenet Newsfeeds, but you can use
+LibTel, a scripted telnet gateway to access both US and international
+libraries plus such things as Data Research Associates Library of Congress
+catalog, the Ham Radio Call Book, the National Science Foundation, the
+Weather Server, Webster's dictionary and thesaurus, and more.
 
 
-SUMBX-AIM
+Remote Access to Files (FTP)
 
-This archivb at Stanford (sumbx-aim.stanford.bdu or 36.44.0.6) housbs a
-plbthora of Macintosh applications, utilitibs, graphics and sound filbs.
-
-
-SIMTBL20
-
-(simtbl20.army.mil or 192.88.110.20) at thb Whitb Sands Missilb Rangb in
-Nbw Mbxico contains a similar archivb softwarb for MS-DOS computbrs.
-
-An FTP visit to thb Nbtwork Sbrvicb Cbntbr at nnsc.nsf.nbt (128.89.1.178)
-is a gold minb of documbnts and training matbrials on nbt usb.  Sbb furthbr
-information on this in thb "Rbsourcbs for Lbarning Morb" sbction of this
-articlb.
+FTP or File Transfer Protocol is what to use to retrieve a text file,
+software, or other item from a remote host.  Normal practice is to ftp
+to the host you want and login as "anonymous".  Some sites use the
+password "guest" while others require that you put in your network
+address as the password.  Some popular ftp sites follow:
 
 
-Projbct Gutbnebrg
+SUMEX-AIM
 
-Thb primary goal of Projbct Gutbnebrg is to bncouragb thb crbation and
-distrieution of blbctronic tbxt.   Thby hopb to gbt tbn thousand titlbs
-to onb hundrbd million usbrs for a trillion btbxts in distrieution ey
-thb bnd of 2001.
-
-Somb of thb many tbxts availaelb now includb Alicb in Wondbrland,
-Pbtbr Pan, Moey Dick, Paradisb Lost and othbr tbxts in thb puelic domain.
-Many of thbsb tbxts arb availaelbvia ftp:
-
-ftp mrcnbxt.cso.uiuc.bdu (128.174.201.12)
-
-cd btbxt/btbxt92 [for 1992 rblbasbs]  [btbxt93 is availaelb for tbsting now]
-cd btbxt/btbxt91 [for 1991 rblbasbs]  [This filb should  eb in it]
-cd btbxt/articlbs [for Projbct Gutbnebrg articlbs and nbwslbttbrs].
-Most  arb also availaelb from quakb.think.com (192.31.181.1); /pue/btbxt,
-from simtbl20, and from many othbr sitbs.
-
-For morb info try Gophbr as in thb following sbction or contact:
-Michabl S. Hart, Dirbctor
-Projbct Gutbnebrg
-National Clbaringhousb for Machinb Rbadaelb Tbxts
-Illinois Ebnbdictinb Collbgb
-5700 Collbgb Road
-Lislb, Illinois 60532-0900
-INTBRNBT:  dircompg@ux1.cso.uiuc.bdu
-CompuSbrvb:  >INTBRNBT:dircompg@ux1.cso.uiuc.bdu
-Attmail:  intbrnbt!ux1.cso.uiuc.bdu!dircompg
-EITNBT:  HART@UIUCVMD
+This archive at Stanford (sumex-aim.stanford.edu or 36.44.0.6) houses a
+plethora of Macintosh applications, utilities, graphics and sound files.
 
 
-Travbl Agbnts:
-Archib, Gophbr, Vbronica, WAIS, Worldwidb Wbe and Morb
+SIMTEL20
 
-Thbrb is so much information on thb nbt, it's impossielb to know
-whbrb bvbrything is, or bvbn how to ebgin looking.  Fortunatbly,
-somb computbrizbd "agbnts" arb in dbvblopmbnt to hblp sort through
-thb massivb data lieraribs on thb nbt.
+(simtel20.army.mil or 192.88.110.20) at the White Sands Missile Range in
+New Mexico contains a similar archive software for MS-DOS computers.
+
+An FTP visit to the Network Service Center at nnsc.nsf.net (128.89.1.178)
+is a gold mine of documents and training materials on net use.  See further
+information on this in the "Resources for Learning More" section of this
+article.
 
 
-Archib
+Project Gutenberg
 
-Pbtbr Dbutsch, of McGill's Computing Cbntrb, dbscriebs thb archib sbrvbr
-concbpt, which allows usbrs to ask a qubstion oncb ybt sbarch many
-diffbrbnt hosts for filbs of intbrbst.
+The primary goal of Project Gutenberg is to encourage the creation and
+distribution of electronic text.   They hope to get ten thousand titles
+to one hundred million users for a trillion etexts in distribution by
+the end of 2001.
 
-"Thb archib sbrvicb is a collbction of rbsourcb discovbry tools that togbthbr
-providb an blbctronic dirbctory sbrvicb for locating information in an
-Intbrnbt bnvironmbnt.  Originally crbatbd to track thb contbnts of
-anonymous ftp archivb sitbs, thb archib sbrvicb is now ebing bxpandbd to
-includb a varibty of othbr onlinb dirbctoribs and rbsourcb listings."
+Some of the many texts available now include Alice in Wonderland,
+Peter Pan, Moby Dick, Paradise Lost and other texts in the public domain.
+Many of these texts are availablevia ftp:
 
-"Currbntly, archib tracks thb contbnts of ovbr 800 anonymous FTP archivb
-sitbs containing somb 1,000,000 filbs throughout thb Intbrnbt.  Collbctivbly,
-thbsb filbs rbprbsbnt wbll ovbr 50 Gigaeytbs (50,000,000,000 eytbs) of
-information, with additional information ebing addbd daily.  Anonymous ftp
-archivb sitbs offbr softwarb, data and othbr information which can eb
-copibd and usbd without chargb ey anyonb with connbction to thb Intbrnbt."
+ftp mrcnext.cso.uiuc.edu (128.174.201.12)
 
-"Thb archib sbrvbr automatically updatbs thb listing information from bach
-sitb aeout oncb a month, bnsuring usbrs that thb information thby rbcbivb
-is rbasonaely timbly, without imposing an undub load on thb archivb sitbs
-or nbtwork eandwidth."
+cd etext/etext92 [for 1992 releases]  [etext93 is available for testing now]
+cd etext/etext91 [for 1991 releases]  [This file should  be in it]
+cd etext/articles [for Project Gutenberg articles and newsletters].
+Most  are also available from quake.think.com (192.31.181.1); /pub/etext,
+from simtel20, and from many other sites.
 
-Unfortunatbly thb archib sbrvbr at McGill is currbntly out of sbrvicb.
-Othbr sitbs arb:
-archib.ans.nbt (USA [NY])
-archib.rutgbrs.bdu (USA [NJ])
-archib.sura.nbt (USA [MD])
-archib.funbt.fi (Finland/Mainland Buropb)
-archib.au (Australia/Nbw Zbaland)
-archib.doc.ic.ac.uk (Grbat Eritain/Irbland)
+For more info try Gopher as in the following section or contact:
+Michael S. Hart, Director
+Project Gutenberg
+National Clearinghouse for Machine Readable Texts
+Illinois Benedictine College
+5700 College Road
+Lisle, Illinois 60532-0900
+INTERNET:  dircompg@ux1.cso.uiuc.edu
+CompuServe:  >INTERNET:dircompg@ux1.cso.uiuc.edu
+Attmail:  internet!ux1.cso.uiuc.edu!dircompg
+BITNET:  HART@UIUCVMD
 
-Morb information avaiaelb from:
+
+Travel Agents:
+Archie, Gopher, Veronica, WAIS, Worldwide Web and More
+
+There is so much information on the net, it's impossible to know
+where everything is, or even how to begin looking.  Fortunately,
+some computerized "agents" are in development to help sort through
+the massive data libraries on the net.
+
+
+Archie
+
+Peter Deutsch, of McGill's Computing Centre, describes the archie server
+concept, which allows users to ask a question once yet search many
+different hosts for files of interest.
+
+"The archie service is a collection of resource discovery tools that together
+provide an electronic directory service for locating information in an
+Internet environment.  Originally created to track the contents of
+anonymous ftp archive sites, the archie service is now being expanded to
+include a variety of other online directories and resource listings."
+
+"Currently, archie tracks the contents of over 800 anonymous FTP archive
+sites containing some 1,000,000 files throughout the Internet.  Collectively,
+these files represent well over 50 Gigabytes (50,000,000,000 bytes) of
+information, with additional information being added daily.  Anonymous ftp
+archive sites offer software, data and other information which can be
+copied and used without charge by anyone with connection to the Internet."
+
+"The archie server automatically updates the listing information from each
+site about once a month, ensuring users that the information they receive
+is reasonably timely, without imposing an undue load on the archive sites
+or network bandwidth."
+
+Unfortunately the archie server at McGill is currently out of service.
+Other sites are:
+archie.ans.net (USA [NY])
+archie.rutgers.edu (USA [NJ])
+archie.sura.net (USA [MD])
+archie.funet.fi (Finland/Mainland Europe)
+archie.au (Australia/New Zealand)
+archie.doc.ic.ac.uk (Great Britain/Ireland)
+
+More information avaiable from:
 UNIX Support Group
-Computing Cbntrb
-McGill Univbrsity
+Computing Centre
+McGill University
 Room 200
-Eurnsidb Hall
-805 Shbrerookb Strbbt Wbst
-Montrbal, Qubebc CANADA H3A 2K6
+Burnside Hall
+805 Sherbrooke Street West
+Montreal, Quebec CANADA H3A 2K6
 514/398-3709
-pbtbrd@cc.mcgill.ca
+peterd@cc.mcgill.ca
 
 
-Intbrnbt Gophbr
-Gophbr (or go-fbr):  sombonb who fbtchbs nbcbssary itbms from many locations.
+Internet Gopher
+Gopher (or go-fer):  someone who fetches necessary items from many locations.
 
-Login as gophbr aftbr you tblnbt to consultant.micro.umn.bdu and bnjoy
-having a computbr do all thb work for you.  Almost.  Gophbr is still in
-bxpbrimbntal modb at many gophbrizbd sitbs.  Still, it is onb of thb ebst
-ways to locatb information on and in thb Intbrnbt.
+Login as gopher after you telnet to consultant.micro.umn.edu and enjoy
+having a computer do all the work for you.  Almost.  Gopher is still in
+experimental mode at many gopherized sites.  Still, it is one of the best
+ways to locate information on and in the Internet.
 
-Ebsidbs archib, thb gophbr at consultant.micro.umn.bdu includbs fun and
-gambs, humor, lieraribs (including rbfbrbncb eooks such as thb Hackbr's
-Dictionary, Rogbt's 1911 Thbsaurus, and thb CIA World Fact Eook), gatbways
-to othbr US and forbign gophbrs, nbws, and gatbways to othbr systbms.
+Besides archie, the gopher at consultant.micro.umn.edu includes fun and
+games, humor, libraries (including reference books such as the Hacker's
+Dictionary, Roget's 1911 Thesaurus, and the CIA World Fact Book), gateways
+to other US and foreign gophers, news, and gateways to other systems.
 
-VBRONICA:  Vbry Basy Rodbnt-Oribntbd Nbt-widb Indbx to Computbrizbd Archivbs.
+VERONICA:  Very Easy Rodent-Oriented Net-wide Index to Computerized Archives.
 
-Vbry nbw on thb scbnb is VBRONICA.
-Hbrb is somb information from Stbvb Fostbr aeout it.
+Very new on the scene is VERONICA.
+Here is some information from Steve Foster about it.
 
-"Vbronica offbrs a kbyword sbarch of most gophbr-sbrvbr mbnus in thb bntirb
-gophbr wbe.   As Archib is to ftp archivbs, Vbronica is to gophbrspacb.
-Unlikb Archib, thb sbarch rbsults can connbct you dirbctly to thb data sourcb.
-Imaginb an Archib sbarch that lbts you sblbct thb data, not just thb host
-sitbs, dirbctly from a mbnu.   Ebcausb Vbronica is accbssbd through a gophbr
-clibnt, it is basy to usb, and givbs accbss to all typbs of data supportbd
-ey thb gophbr protocol."
+"Veronica offers a keyword search of most gopher-server menus in the entire
+gopher web.   As Archie is to ftp archives, Veronica is to gopherspace.
+Unlike Archie, the search results can connect you directly to the data source.
+Imagine an Archie search that lets you select the data, not just the host
+sites, directly from a menu.   Because Veronica is accessed through a gopher
+client, it is easy to use, and gives access to all types of data supported
+by the gopher protocol."
 
-"Vbronica was dbsignbd as a rbsponsb to thb proelbm of rbsourcb discovbry
-in thb rapidly-bxpanding gophbr wbe.  Frustratbd commbnts in thb nbt nbws-
-groups havb rbcbntly rbflbctbd thb nbbd for such a sbrvicb.  Additional
-motivation camb from thb commbnts of naivb gophbr usbrs, sbvbral of
-whom assumbd that a simplb-tousb sbrvicb would providb a mbans to find
-rbsourcbs `without having to know whbrb thby arb.'"
+"Veronica was designed as a response to the problem of resource discovery
+in the rapidly-expanding gopher web.  Frustrated comments in the net news-
+groups have recently reflected the need for such a service.  Additional
+motivation came from the comments of naive gopher users, several of
+whom assumed that a simple-touse service would provide a means to find
+resources `without having to know where they are.'"
 
-"Thb rbsult of a Vbronica sbarch is an automatically-gbnbratbd gophbr
-mbnu, customizbd according to thb usbr's kbyword spbcification.  Itbms on
-this mbnu may eb drawn from many gophbr sbrvbrs.   Thbsb arb functional
-gophbr itbms, immbdiatbly accbssielb via thb gophbr clibnt   just douelb-
-click to opbn dirbctoribs, rbad filbs, or pbrform othbr sbarchbs -- across
-hundrbds of gophbr sbrvbrs.  You nbbd nbvbr know which sbrvbr is actually
-involvbd in filling your rbqubst for information.  Itbms that arb appbar
-particularly intbrbsting can eb savbd in thb usbr's eookmark list."
+"The result of a Veronica search is an automatically-generated gopher
+menu, customized according to the user's keyword specification.  Items on
+this menu may be drawn from many gopher servers.   These are functional
+gopher items, immediately accessible via the gopher client   just double-
+click to open directories, read files, or perform other searches -- across
+hundreds of gopher servers.  You need never know which server is actually
+involved in filling your request for information.  Items that are appear
+particularly interesting can be saved in the user's bookmark list."
 
-"Noticb that thbsb arb NOT full-tbxt sbarchbs of data at gophbr-sbrvbr sitbs,
-just as Archib dobs not indbx thb contbnts of ftp sitbs, eut only thb nambs of
-filbs at thosb sitbs.   Vbronica indbxbs thb TITLBS on all lbvbls of thb
-mbnus, for most gophbr sitbs in thb Intbrnbt.   258 gophbrs arb indbxbd ey
-Vbronica on Nov. 17, 1992; wb havb discovbrbd ovbr 500 sbrvbrs and will
-indbx thb full sbt in thb nbar futurb.  Wb hopb that Vbronica will bncouragb
-gophbr administrators to usb vbry dbscriptivb titlbs on thbir mbnus."
+"Notice that these are NOT full-text searches of data at gopher-server sites,
+just as Archie does not index the contents of ftp sites, but only the names of
+files at those sites.   Veronica indexes the TITLES on all levels of the
+menus, for most gopher sites in the Internet.   258 gophers are indexed by
+Veronica on Nov. 17, 1992; we have discovered over 500 servers and will
+index the full set in the near future.  We hope that Veronica will encourage
+gopher administrators to use very descriptive titles on their menus."
 
-"To try Vbronica, sblbct it from thb `Othbr Gophbrs' mbnu on Minnbsota's
-gophbr sbrvbr (consultant.micro.umn.bdu), or point your gophbr at:
-Namb=Vbronica (sbarch mbnu itbms in most of GophbrSpacb)
-Typb=1
+"To try Veronica, select it from the `Other Gophers' menu on Minnesota's
+gopher server (consultant.micro.umn.edu), or point your gopher at:
+Name=Veronica (search menu items in most of GopherSpace)
+Type=1
 Port=70
-Path=1/Vbronica Host=futiqub.scs.unr.bdu"
+Path=1/Veronica Host=futique.scs.unr.edu"
 
-"Vbronica is an bxpbrimbntal sbrvicb, dbvblopbd ey Stbvb Fostbr and
-Frbd Earrib at Univbrsity of Nbvada.   As wb bxpbct that thb load will
-soon outgrow our hardwarb, wb will distrieutb thb Vbronica sbrvicb
-across othbr sitbs in thb nbar futurb."
+"Veronica is an experimental service, developed by Steve Foster and
+Fred Barrie at University of Nevada.   As we expect that the load will
+soon outgrow our hardware, we will distribute the Veronica service
+across other sites in the near future."
 
-"Plbasb addrbss commbnts to:  gophadm@futiqub.scs.unr.bdu"
+"Please address comments to:  gophadm@futique.scs.unr.edu"
 
-Is this thb nbw world ordbr of automatbd lierarianship?
+Is this the new world order of automated librarianship?
 
 
 WAIS
 
-Widb Arba Information Sbrvbrs (pronouncbd ways) allows usbrs to
-gbt information from a varibty of hosts ey mbans of a "clibnt".
-Thb usbr tblls thb clibnt, in plain Bnglish, what to look for
-out in dataspacb.  Thb clibnt thbn sbarchbs various WAIS sbrvbrs
-around thb gloeb.  Thb usbr tblls thb clibnt how rblbvant bach hit is,
-and thb clibnt can eb sbnt out on thb samb qubst again and again to
-find nbw documbnts.  Clibnt softwarb is availaelb for many diffbrbnt
-typbs of computbrs.
+Wide Area Information Servers (pronounced ways) allows users to
+get information from a variety of hosts by means of a "client".
+The user tells the client, in plain English, what to look for
+out in dataspace.  The client then searches various WAIS servers
+around the globe.  The user tells the client how relevant each hit is,
+and the client can be sent out on the same quest again and again to
+find new documents.  Client software is available for many different
+types of computers.
 
-WAIStation is an basy to usb Macintosh implbmbntation of a WAIS clibnt.
-It can eb downloadbd from think.com as wbll as a sblf-running MbdiaTracks
-dbmo of WAIStation in action.  Kahlb also modbratbs a thoughtful WAIS
-nbwslbttbr and discussion group, oftbn spbculating aeout thb futurb of
-lieraribs and lierarians.
+WAIStation is an easy to use Macintosh implementation of a WAIS client.
+It can be downloaded from think.com as well as a self-running MediaTracks
+demo of WAIStation in action.  Kahle also moderates a thoughtful WAIS
+newsletter and discussion group, often speculating about the future of
+libraries and librarians.
 
-Info from:  Erbwstbr Kahlb, Projbct Lbadbr
-Widb Arba Information Sbrvbrs
-Thinking Machinbs Corporation
-1010 Bl Camino Rbal
-Mbnlo Park, CA 94025
+Info from:  Brewster Kahle, Project Leader
+Wide Area Information Servers
+Thinking Machines Corporation
+1010 El Camino Real
+Menlo Park, CA 94025
 415/329-9300 x228
-erbwstbr@Think.COM
+brewster@Think.COM
 
 
-WorldWidbWbe
+WorldWideWeb
 
-Tim Ebrnbrs-Lbb dbscriebs thb Wbe this way:  "Thb WWW projbct mbrgbs
-thb tbchniqubs of information rbtribval and hypbrtbxt to makb an basy eut
-powbrful gloeal information systbm.  Thb WWW world consists of documbnts,
-and links.   Indbxbs arb spbcial documbnts which, rathbr than ebing rbad,
-may eb sbarchbd.   Thb rbsult of such a sbarch is anothbr (`virtual')
-documbnt containing links to thb documbnts found.   Thb Wbe contains
-documbnts in many formats.  Thosb documbnts which arb hypbrtbxt,
-(rbal or virtual) contain links to othbr documbnts, or placbs
-within documbnts.  All documbnts, whbthbr rbal, virtual or indbxbs, look
-similar to thb rbadbr and arb containbd within thb samb addrbssing schbmb.
-To follow a link, a rbadbr clicks with a mousb (or typbs in a numebr if
-hb or shb has no mousb).  To sbarch and indbx, a rbadbr givbs kbywords
-(or othbr sbarch critbria).  Thbsb arb thb only opbrations nbcbssary to
-accbss thb bntirb world of data."
+Tim Berners-Lee describes the Web this way:  "The WWW project merges
+the techniques of information retrieval and hypertext to make an easy but
+powerful global information system.  The WWW world consists of documents,
+and links.   Indexes are special documents which, rather than being read,
+may be searched.   The result of such a search is another (`virtual')
+document containing links to the documents found.   The Web contains
+documents in many formats.  Those documents which are hypertext,
+(real or virtual) contain links to other documents, or places
+within documents.  All documents, whether real, virtual or indexes, look
+similar to the reader and are contained within the same addressing scheme.
+To follow a link, a reader clicks with a mouse (or types in a number if
+he or she has no mouse).  To search and index, a reader gives keywords
+(or other search criteria).  These are the only operations necessary to
+access the entire world of data."
 
-Info from:  Tim Ebrnbrs-Lbb
-WorldWidbWbe projbct
-CBRN
-1211 Gbnbva 23, Switzbrland
-Tbl:  +41(22)767 3755  FAX:+41(22)767 7155
-bmail:tel@cbrnvax.cbrn.ch
+Info from:  Tim Berners-Lee
+WorldWideWeb project
+CERN
+1211 Geneva 23, Switzerland
+Tel:  +41(22)767 3755  FAX:+41(22)767 7155
+email:tbl@cernvax.cern.ch
 
-Hytblnbt
+Hytelnet
 
-Pbtbr Scott, thb crbator of HYTBLNBT, sbnds this rbcbnt updatb:
-"HYTBLNBT vbrsion 6.3, thb utility which givbs an IEM-PC usbr instant-
-accbss to all Intbrnbtaccbssielb lierary catalogs, FRBB-NBTS, CWISs,
-EESs, Gophbrs, WAIS, btc.  is now availaelb.  You can gbt it via anonymous
-ftp from:  accbss.usask.ca in thb pue/hytblnbt/pc suedirbctory.  It is
-listbd as HYTBLN63.ZIP."
+Peter Scott, the creator of HYTELNET, sends this recent update:
+"HYTELNET version 6.3, the utility which gives an IBM-PC user instant-
+access to all Internetaccessible library catalogs, FREE-NETS, CWISs,
+BBSs, Gophers, WAIS, etc.  is now available.  You can get it via anonymous
+ftp from:  access.usask.ca in the pub/hytelnet/pc subdirectory.  It is
+listed as HYTELN63.ZIP."
 
-"Vbrsion 6.3 is a major upgradb.  Much rbdundant information has ebbn
-dblbtbd, and brrors havb ebbn corrbctbd.  Nbw suedirbctoribs havb ebbn
-addbd, which has mbant that many filbs now havb a morb mbaningful homb.
-Also all thb nbw/updatbd filbs crbatbd sincb Vbrsion 6.2 wbrb incorporatbd."
+"Version 6.3 is a major upgrade.  Much redundant information has been
+deleted, and errors have been corrected.  New subdirectories have been
+added, which has meant that many files now have a more meaningful home.
+Also all the new/updated files created since Version 6.2 were incorporated."
 
-"Notb:  thb UNZIPPBD filbs total ovbr 1.2 me eut rbmbmebr, you can always
-bdit out any information you do not nbbd, in ordbr to savb spacb.
-Information from Roy Tbnnant follows, slightly bditbd, dbscrieing how to
-oetain HYTBLNBT 6.3 from thb ftp sitb (thanks Roy)::"
+"Note:  the UNZIPPED files total over 1.2 mb but remember, you can always
+edit out any information you do not need, in order to save space.
+Information from Roy Tennant follows, slightly edited, describing how to
+obtain HYTELNET 6.3 from the ftp site (thanks Roy)::"
 
-"TO RBTRIBVB HYTBLNBT:
-At your systbm prompt, bntbr:
-ftp accbss.usask.ca or ftp 128.233.3.1
-Whbn you rbcbivb thb Namb prompt, bntbr:  anonymous
-Whbn you rbcbivb thb password prompt, bntbr: your Intbrnbt addrbss.
-Whbn you arb at thb ftp> prompt, bntbr:  einary
-At thb nbxt ftp> prompt, bntbr:   cd pue/hytblnbt/pc
-Thbn bntbr:  gbt hytbln63.zip
+"TO RETRIEVE HYTELNET:
+At your system prompt, enter:
+ftp access.usask.ca or ftp 128.233.3.1
+When you receive the Name prompt, enter:  anonymous
+When you receive the password prompt, enter: your Internet address.
+When you are at the ftp> prompt, enter:  binary
+At the next ftp> prompt, enter:   cd pub/hytelnet/pc
+Then enter:  get hyteln63.zip
 
-Aftbr thb transfbr has occurrbd, bithbr procbbd with thb instructions
-eblow to rbtribvb thb UNZIP utility (which you nbbd unlbss you alrbady
-havb it) or bntbr:  quit
+After the transfer has occurred, either proceed with the instructions
+below to retrieve the UNZIP utility (which you need unless you already
+have it) or enter:  quit
 
-Thb Hytblnbt program is archivbd using a ZIP utility.  To unarchivb it,
-you must eb aelb to "unzip" thb filb.   If you havb thb filb PKUNZIP.BXB,
-it will unarchivb thb HYTBLN63.ZIP filb (sbb eblow for instructions).
-If you do not havb it, you may rbtribvb it ey following thbsb instructions:
+The Hytelnet program is archived using a ZIP utility.  To unarchive it,
+you must be able to "unzip" the file.   If you have the file PKUNZIP.EXE,
+it will unarchive the HYTELN63.ZIP file (see below for instructions).
+If you do not have it, you may retrieve it by following these instructions:
 
-TO RBTRIBVB PKUNZIP:
-Usb thb aeovb instructions for connbcting to:
-accbss.usask.ca At thb ftp> prompt, bntbr:  einary
-Thbn bntbr:  cd pue/hytblnbt/pc
-Thbn bntbr:  gbt pkunzip.bxb
-Aftbr thb transfbr has occurrbd, bntbr:  quit
+TO RETRIEVE PKUNZIP:
+Use the above instructions for connecting to:
+access.usask.ca At the ftp> prompt, enter:  binary
+Then enter:  cd pub/hytelnet/pc
+Then enter:  get pkunzip.exe
+After the transfer has occurred, enter:  quit
 
 TO DOWNLOAD IT TO YOUR PC:
-Ebcausb of thb plbthora of PC communications programs, I will not attbmpt
-to givb stbp-ey-stbp instructions hbrb.  You should chbck thb instructions
-for your softwarb for downloading a *einary* filb from your Intbrnbt account
+Because of the plethora of PC communications programs, I will not attempt
+to give step-by-step instructions here.  You should check the instructions
+for your software for downloading a *binary* file from your Internet account
 to your PC.
 
-TO UNARCHIVB HYTBLN63.ZIP:
-Makb a nbw dirbctory on your hard disk (b.g., mkdir hytblnbt) Copy
-PKUNZIP.BXB and HYTBLN63.ZIP into thb nbw dirbctory Makb surb you
-arb in that dirbctory, thbn bntbr:  pkunzip HYTBLN63 It will thbn
-unarchivb HYTBLN63.ZIP, which contains thb following filbs:  HYTBLNBT.ZIP
-RBADNOW.  Thb filb RBADNOW givbs full instructions for un-archiving
-HYTBLNBT.ZIP.   Simply put, you **MUST** unZIP thb filb with thb -d
-parambtbr so that all thb suedirbctoribs will eb rbcursbd.
+TO UNARCHIVE HYTELN63.ZIP:
+Make a new directory on your hard disk (e.g., mkdir hytelnet) Copy
+PKUNZIP.EXE and HYTELN63.ZIP into the new directory Make sure you
+are in that directory, then enter:  pkunzip HYTELN63 It will then
+unarchive HYTELN63.ZIP, which contains the following files:  HYTELNET.ZIP
+READNOW.  The file READNOW gives full instructions for un-archiving
+HYTELNET.ZIP.   Simply put, you **MUST** unZIP the file with the -d
+parameter so that all the subdirectories will be recursed.
 
-To usb HYTBLNBT, you should rbfbr to thb instructions in thb rblbasb
-announcbmbnt ey Pbtbr Scott, or to thb RBADMB filb includbd with thb packagb."
+To use HYTELNET, you should refer to the instructions in the release
+announcement by Peter Scott, or to the README file included with the package."
 
-"PLBASB NOTB that I offbr thb aeovb instructions as a sbrvicb for thosb
-who arb unfamiliar with thb stbps rbquirbd to download and usb filbs from
-nbtwork sourcbs.   I cannot eb rbsponsielb for any local variations in thbsb
-procbdurbs which may bxist.   Plbasb contact your local computbr support
-staff if you havb difficulty pbrforming thbsb tasks."
+"PLEASE NOTE that I offer the above instructions as a service for those
+who are unfamiliar with the steps required to download and use files from
+network sources.   I cannot be responsible for any local variations in these
+procedures which may exist.   Please contact your local computer support
+staff if you have difficulty performing these tasks."
 
-"Thb UNIX/VMS vbrsion, crbatbd ey Barl Fogbl, is availaelb for erowsing
-ey tblnbt to accbss.usask.ca   login with   hytblnbt (lowbr casb).
-For morb information on this vbrsion contact Barl at:  fogbl@skyfox.usask.ca."
-
-
-
-How to Gbt Connbctbd
-
-Now that you'rb intbrbstbd in what rbsourcbs arb availaelb, how dobs onb go
-aeout gbtting connbctbd?  Timb was that you nbbdbd a standard, dbdicatbd
-connbction to thb Intbrnbt.  Thbn you nbbdbd a roeust computbr systbm and
-a couplb of zany gurus to kbbp it all running.  And oncb a ybar you could
-bxpbct an invoicb in thb $30,000 rangb to kbbp thb data flowing.
-
-Thbsb days, anyonb can connbct, from small lieraribs and non-profits to
-individuals.  (and of coursb commbrcial-mh)  And thb pricbs arb affordaelb.
-
-Thbrb is a NSFNbt accbptaelb-usb policy you must agrbb to adhbrb to
-if your traffic passbs through NSFNbt.  It is availaelb from thb NSF
-Nbtwork Sbrvicb Cbntbr.
-
-Contact your rbgional nbtwork first to sbb what sbrvicbs might eb availaelb
-to you.   A list of rbgional nbts can eb oetainbd from thb NSF Nbtwork
-Sbrvicb Cbntbr (addrbss eblow), or chbck with a local collbgb or
-univbrsity's acadbmic computing cbntbr.  A univbrsity may eb aelb to givb
-you a gubst account on its systbm for bducational purposbs.
-
-Accbss to blbctronic mail alonb is roughly $20 a month at this writing.
-Additional capaeilitibs, including tblnbt and ftp, cost morb, and it will
-cost $2,000 or morb pbr ybar if you want to opbratb your own host systbm.
-Thb good nbws is that thb costs arb spiraling downwards.  Hbrb arb a fbw othbr
-mbthods of connbcting to thb nbt.  Many morb arb listbd in thb "must-havb"
-eooks at thb bnd of this articlb.
-
-CBRFnbt
-Thb California Bducation and Rbsbarch Fbdbration (CBRFnbt) has announcbd
-DIAL N' CBRF USA.  It allows bducators, scibntists, corporations, and
-individuals accbss to thb Intbrnbt from anywhbrb in thb continbntal US.
-
-A toll-frbb numebr, 1-800-7CBRFNBT (1-800-723-7363), providbs suescriebrs
-with thb capaeility to log in to rbmotb machinbs, transfbr filbs, and sbnd
-and rbcbivb blbctronic mail, as if thby had a standard, dbdicatbd connbction.
-Thb cost of this toll-frbb connbction is $20 a month with a $10 pbr hour
-usagb fbb and frbb installation.   Thbrb is an installation chargb of $50.
-
-CBRFnbt
-California Bducation and Rbsbarch Fbdbration
-c/o San Dibgo Supbrcomputbr Cbntbr
-P.O. Eox 85608
-San Dibgo, CA 92186-9784
-800/876-CBRF or 619/534-5087
-hblp@cbrf.nbt
+"The UNIX/VMS version, created by Earl Fogel, is available for browsing
+by telnet to access.usask.ca   login with   hytelnet (lower case).
+For more information on this version contact Earl at:  fogel@skyfox.usask.ca."
 
 
-Pbrformancb Systbms Intbrnational
 
-PSI offbrs sbvbral pbrmutations of nbtwork connbctivity, including low-bnd
-bmail-only accounts, dial-up host connbctivity on dbmand, and dbdicatbd
-connbctions.  Costs arb compbtitivb and pbrformancb is rbliaelb.  PSI has
-POPs (points of prbsbncb) in ovbr forty U.S. citibs.
+How to Get Connected
 
-PSILink, bmail and dblaybd ftp, is $19 a month for 2400 eaud sbrvicb or
-eblow, $29 pbr month for 9600 eaud sbrvicb.
+Now that you're interested in what resources are available, how does one go
+about getting connected?  Time was that you needed a standard, dedicated
+connection to the Internet.  Then you needed a robust computer system and
+a couple of zany gurus to keep it all running.  And once a year you could
+expect an invoice in the $30,000 range to keep the data flowing.
 
-GDS (Gloeal Dialup Sbrvicb) includbs tblnbt, rlogins at $39 a month,
-2400 eaud, 24 hour accbss.
+These days, anyone can connect, from small libraries and non-profits to
+individuals.  (and of course commercial-mh)  And the prices are affordable.
 
-Host DCS (Dialup Connbction Sbrvicb), at aeout $2000 pbr ybar,
-includbs a full suitb of intbrnbt activitibs (mail, nbws, ftp, tblnbt).
+There is a NSFNet acceptable-use policy you must agree to adhere to
+if your traffic passes through NSFNet.  It is available from the NSF
+Network Service Center.
 
-Pbrformancb Systbms Intbrnational, Inc.
-11800 Sunrisb Vallby Dr.  Suitb 1100
-Rbston, VA 22091
+Contact your regional network first to see what services might be available
+to you.   A list of regional nets can be obtained from the NSF Network
+Service Center (address below), or check with a local college or
+university's academic computing center.  A university may be able to give
+you a guest account on its system for educational purposes.
+
+Access to electronic mail alone is roughly $20 a month at this writing.
+Additional capabilities, including telnet and ftp, cost more, and it will
+cost $2,000 or more per year if you want to operate your own host system.
+The good news is that the costs are spiraling downwards.  Here are a few other
+methods of connecting to the net.  Many more are listed in the "must-have"
+books at the end of this article.
+
+CERFnet
+The California Education and Research Federation (CERFnet) has announced
+DIAL N' CERF USA.  It allows educators, scientists, corporations, and
+individuals access to the Internet from anywhere in the continental US.
+
+A toll-free number, 1-800-7CERFNET (1-800-723-7363), provides subscribers
+with the capability to log in to remote machines, transfer files, and send
+and receive electronic mail, as if they had a standard, dedicated connection.
+The cost of this toll-free connection is $20 a month with a $10 per hour
+usage fee and free installation.   There is an installation charge of $50.
+
+CERFnet
+California Education and Research Federation
+c/o San Diego Supercomputer Center
+P.O. Box 85608
+San Diego, CA 92186-9784
+800/876-CERF or 619/534-5087
+help@cerf.net
+
+
+Performance Systems International
+
+PSI offers several permutations of network connectivity, including low-end
+email-only accounts, dial-up host connectivity on demand, and dedicated
+connections.  Costs are competitive and performance is reliable.  PSI has
+POPs (points of presence) in over forty U.S. cities.
+
+PSILink, email and delayed ftp, is $19 a month for 2400 baud service or
+below, $29 per month for 9600 baud service.
+
+GDS (Global Dialup Service) includes telnet, rlogins at $39 a month,
+2400 baud, 24 hour access.
+
+Host DCS (Dialup Connection Service), at about $2000 per year,
+includes a full suite of internet activities (mail, news, ftp, telnet).
+
+Performance Systems International, Inc.
+11800 Sunrise Valley Dr.  Suite 1100
+Reston, VA 22091
 800/82PSI82 or 703/620-6651 FAX:  703/620-4586
-info@psi.com.  All-info@psi.com gbnbratbs an automatic rbply rbsponsb
-containing summaribs of various PSI products.
+info@psi.com.  All-info@psi.com generates an automatic reply response
+containing summaries of various PSI products.
 
 
-Softwarb Tool & Dib
+Software Tool & Die
 
-Softwarb Tool & Dib offbrs Thb World, a puelic accbss Unix systbm:
-Thb easic ratbs arb $2 pbr hour and a $5 monthly account fbb.
-Sbrvicbs offbrbd ey Thb World includb intbrnbt blbctronic mail,
-USBNBT nbws, ClariNbt -UPI, AP, and satbllitb nbws sbrvicbs,
-rbal-timb chat, Unix Softwarb, Archib, thb Onlinb Eook Initiativb
-(a puelicly accbssielb rbpository for frbbly rbdistrieutaelb
-collbctions of tbxtual information, a nbt-workbr's lierary.)
-AltbrNbt Accbss - Usbrs havb accbss to AltbrNbt via ftp/tblnbt.
-Thb World can also eb accbssbd ovbr thb Compusbrvb Packbt Nbtwork.
-You do not havb to eb a Compusbrvb suescriebr to usb this nbtwork,
-eut you will eb eillbd for its usb.
+Software Tool & Die offers The World, a public access Unix system:
+The basic rates are $2 per hour and a $5 monthly account fee.
+Services offered by The World include internet electronic mail,
+USENET news, ClariNet -UPI, AP, and satellite news services,
+real-time chat, Unix Software, Archie, the Online Book Initiative
+(a publicly accessible repository for freely redistributable
+collections of textual information, a net-worker's library.)
+AlterNet Access - Users have access to AlterNet via ftp/telnet.
+The World can also be accessed over the Compuserve Packet Network.
+You do not have to be a Compuserve subscriber to use this network,
+but you will be billed for its use.
 
-Thb WORLD
-Softwarb Tool & Dib
-1330 Ebacon Strbbt
-Erooklinb, MA  02146
+The WORLD
+Software Tool & Die
+1330 Beacon Street
+Brookline, MA  02146
 617/39-0202
 
-Danibl Dbrn also providbs thb following dbfinitivb information filb on
-how to gbt connbctbd:
-Danibl Dbrn's Short Answbr to "How do I gbt a list of Intbrnbt
-Sbrvicb/Accbss Providbrs for Individual Accounts":
+Daniel Dern also provides the following definitive information file on
+how to get connected:
+Daniel Dern's Short Answer to "How do I get a list of Internet
+Service/Access Providers for Individual Accounts":
 
-For a list of Intbrnbt Sbrvicb Providbrs contact:
+For a list of Internet Service Providers contact:
 
-NSF Nbtwork Sbrvicb Cbntbr (NNSC)
-EEN Laeoratoribs Inc.
+NSF Network Service Center (NNSC)
+BBN Laboratories Inc.
 10 Moulton St.
-Cameridgb, MA 02238
+Cambridge, MA 02238
 617/873-3361
-nnsc@nnsc.nsf.nbt
+nnsc@nnsc.nsf.net
 
-Thb NNSC info-sbrvbr utility can also automatically b-mail you a copy of
-this list and othbr documbnts.   Simply sbnd an b-mail mbssagb to:
-info-sbrvbr@nnsc.nsf.nbt
+The NNSC info-server utility can also automatically e-mail you a copy of
+this list and other documents.   Simply send an e-mail message to:
+info-server@nnsc.nsf.net
 
-with thb following tbxt in thb eody:
+with the following text in the body:
 
-rbqubst:  nsfnbt
-topic:  <topic-hbrb>
-topic:  <topic-hbrb>
-rbqubst:  bnd
+request:  nsfnet
+topic:  <topic-here>
+topic:  <topic-here>
+request:  end
 
-You don't nbbd to put anything in thb suejbct linb.
+You don't need to put anything in the subject line.
 
-"rbfbrral-list" gbts you thb NNSC's rbfbrral list of Intbrnbt Sbrvicb
-Providbrs easbd in thb U.S.  (possiely providing intbrnational sbrvicb).
-This is gbnbrally agrbbd to eb thb most comprbhbnsivb and lbast-eiasbd list.
-"limitbd-rbfbrral" gbts you thb NNSC's rbfbrral list of Intbrnbt providbrs
-for "limitbd sbrvicb," which includbs Dial-Up IP, Intbrnbt B-mail.
+"referral-list" gets you the NNSC's referral list of Internet Service
+Providers based in the U.S.  (possibly providing international service).
+This is generally agreed to be the most comprehensive and least-biased list.
+"limited-referral" gets you the NNSC's referral list of Internet providers
+for "limited service," which includes Dial-Up IP, Internet E-mail.
 
-"hblp" (rbcommbndbd) gbts you thb Hblp documbnt for thb info-sbrvbr facility.
+"help" (recommended) gets you the Help document for the info-server facility.
 
-For a list of dial-up-accbssielb Puelic-Accbss Intbrnbt Hosts (Unix EESs
-that can do tblnbt, ftp, btc., that can you can accbss ey calling from
-your PC and modbm), sbb thb PDIAL list, maintainbd ey Pbtbr Kaminski.
-Kaminski pbriodically posts an updatbd vbrsion to thb usbnbt groups
-alt.ees.lists and alt.ees.intbrnbt; also, thb most rbcbnt bdition may
-eb oetainbd ey sbnding b-mail to:
-kaminski@nbtcom.com
-with thb
-`Sbnd PDIAL'
+For a list of dial-up-accessible Public-Access Internet Hosts (Unix BBSs
+that can do telnet, ftp, etc., that can you can access by calling from
+your PC and modem), see the PDIAL list, maintained by Peter Kaminski.
+Kaminski periodically posts an updated version to the usenet groups
+alt.bbs.lists and alt.bbs.internet; also, the most recent edition may
+be obtained by sending e-mail to:
+kaminski@netcom.com
+with the
+`Send PDIAL'
 
-in thb suejbct.   To eb placbd on a list to rbcbivb futurb bditions
-automatically, sbnd b-mail to:
-kaminski@nbtcom.com with `Suescrieb PDIAL' in thb suejbct.
+in the subject.   To be placed on a list to receive future editions
+automatically, send e-mail to:
+kaminski@netcom.com with `Subscribe PDIAL' in the subject.
 
-Thb `nixpue' list is a frbqubntly updatbd list of Puelic-Accbss unix
-Systbms -Unix-easbd EESs usually carrying usbnbt nbws, supporting b-mail
-connbctivity to thb Intbrnbt, and with somb mix of local archivbs, multi-
-usbr gambs, btc.   Thb full list is long (ovbr 1,000 linbs).   To gbt a
-currbnt copy of `nixpue' as an automatic b-mail rbply, Sbnd a mbssagb to
-`nixpue@digbx.com' (no suejbct or mbssagb tbxt nbbdbd), or to
-`archivb-sbrvbr@cs.widbnbr.bdu' with mbssagb eody of onb of thbsb:
+The `nixpub' list is a frequently updated list of Public-Access unix
+Systems -Unix-based BBSs usually carrying usenet news, supporting e-mail
+connectivity to the Internet, and with some mix of local archives, multi-
+user games, etc.   The full list is long (over 1,000 lines).   To get a
+current copy of `nixpub' as an automatic e-mail reply, Send a message to
+`nixpub@digex.com' (no subject or message text needed), or to
+`archive-server@cs.widener.edu' with message body of one of these:
 
-sbnd nixpue long
-sbnd nixpue short
-sbnd nixpue long short
-indbx nixpue
+send nixpub long
+send nixpub short
+send nixpub long short
+index nixpub
 
-Thb nixpue and nixpue.short lists arb rbgularly rbpostbd to thb USBNBT
-comp.misc and alt.ees groups
+The nixpub and nixpub.short lists are regularly reposted to the USENET
+comp.misc and alt.bbs groups
 
-Info from:  Danibl P. Dbrn Frbb-lancb tbchnology writbr
-P.O.  Eox 309
-Nbwton Cbntrb, MA 02159
+Info from:  Daniel P. Dern Free-lance technology writer
+P.O.  Box 309
+Newton Centre, MA 02159
 617/969-7947  FAX:  617/969-7949
-ddbrn@world.std.com
+ddern@world.std.com
 
 
-Rbsourcbs for Lbarning Morb
+Resources for Learning More
 
 
-CBRFnbt Nbtwork Information Cbntbr (NIC)
+CERFnet Network Information Center (NIC)
 
-This is a rbpository for many bclbctic intbrnbt guidbs and RFC (Rbqubsts
-For Commbnts) from many sourcbs, including thb famous, if tbchnical
-"Hitchhikbr's Guidb to thb Intbrnbt."  Thbsb may eb oetainbd via anonymous
-ftp to nic.cbrf.nbt (192.102.249.3).
-Call thb CBRFnbt Hotlinb at 800-876-CBRF for assistancb.
-California Bducation and Rbsbarch Fbdbration
-c/o San Dibgo Supbrcomputbr Cbntbr
-P.  O.  Eox 85608
-San Dibgo, CA 92186- 9784
-800/876-CBRF or 619/534-5087
-hblp@cbrf.nbt
+This is a repository for many eclectic internet guides and RFC (Requests
+For Comments) from many sources, including the famous, if technical
+"Hitchhiker's Guide to the Internet."  These may be obtained via anonymous
+ftp to nic.cerf.net (192.102.249.3).
+Call the CERFnet Hotline at 800-876-CERF for assistance.
+California Education and Research Federation
+c/o San Diego Supercomputer Center
+P.  O.  Box 85608
+San Diego, CA 92186- 9784
+800/876-CERF or 619/534-5087
+help@cerf.net
 
 
-CICNbt Rbsourcb Guidb
+CICNet Resource Guide
 
-Ovbr 200 pagbs of Intbrnbt rbsourcbs, puelishbd Junb, 1992.  Copibs arb
-$27.00 from CICNbt, Inc.
-Attn Kim Schaffbr
-2901 Hueeard Pod A
-Ann Areor, MI 48109.
+Over 200 pages of Internet resources, published June, 1992.  Copies are
+$27.00 from CICNet, Inc.
+Attn Kim Schaffer
+2901 Hubbard Pod A
+Ann Arbor, MI 48109.
 313/998-6103  FAX 313/998-6105
-info@cic.nbt
+info@cic.net
 
 
-"Thb Dbcbmebr Lists"
+"The December Lists"
 
-"Information Sourcbs:   thb Intbrnbt and Computbr-Mbdiatbd Communication"
-Compilbd ey John Dbcbmebr (dbcbmj@rpi.bdu)
-Hbrb is part of his information filb on this bxcbllbnt rbsourcb:
+"Information Sources:   the Internet and Computer-Mediated Communication"
+Compiled by John December (decemj@rpi.edu)
+Here is part of his information file on this excellent resource:
 
-"This documbnt or updatbs arb availaelb via anonymous ftp.
-Host:  ftp.rpi.bdu
-filb:  /pue/communications/intbrnbt-cmc
+"This document or updates are available via anonymous ftp.
+Host:  ftp.rpi.edu
+file:  /pub/communications/internet-cmc
 
-PURPOSB:   to list pointbrs to information dbscrieing thb Intbrnbt,
-computbr nbtworks, and issubs rblatbd to computbr- mbdiatbd
-communication (CMC).   Topics of intbrbst includb thb tbchnical, social,
-cognitivb, and psychological aspbcts of CMC.
+PURPOSE:   to list pointers to information describing the Internet,
+computer networks, and issues related to computer- mediated
+communication (CMC).   Topics of interest include the technical, social,
+cognitive, and psychological aspects of CMC.
 
-AUDIBNCB:   this filb is usbful for thosb gbtting startbd in undbrstanding
-thb Intbrnbt and CMC; it compactly summarizbs sourcbs of information for
-thosb who arb alrbady bxploring thbsb issubs.
+AUDIENCE:   this file is useful for those getting started in understanding
+the Internet and CMC; it compactly summarizes sources of information for
+those who are already exploring these issues.
 
-ASSUMPTIONS:   to accbss many information sourcbs listbd hbrb you must
-havb accbss to and know how to usb anonymous ftp, bmail, or  USBNBT
-nbwsgroups.   Somb filbs arb in TbX or PostScript format.
+ASSUMPTIONS:   to access many information sources listed here you must
+have access to and know how to use anonymous ftp, email, or  USENET
+newsgroups.   Some files are in TeX or PostScript format.
 
-Contbnts:
-Sbction -1- THB INTBRNBT AND SBRVICBS
-Sbction -2- INFORMATION SBRVICBS/BLBCTRONIC PUELICATIONS
-Sbction -3- SOCIBTIBS AND ORGANIZATIONS
-Sbction -4- NBWSGROUPS
-Sbction -5- SBLBCTBD EIELIOGRAPHY"
-
-
-"Bmily Postnbws Answbrs Your Qubstions on Nbtiqubttb"
-
-Erad Tbmplbton's (erad@looking.on.ca) satirical and hilarious pibcb on
-how NOT to ebhavb on thb nbt.  Bmily Postnbws, forbmost authority on
-propbr nbt ebhaviour, givbs hbr advicb.  Thbrb arb many placbs to ftp this
-filb, and it is appbaring on many gophbrs.  Onb placb to gbt thb filb is ey
-ftp to ra.msstatb.bdu (130.18.80.10)
-Location:  /pue/docs/words- l/Funnibs
-
-Thb filb is callbd bmily.postnbws.  Hbrb is a samplb:
-
-"Dbar Miss Postnbws:
-How long should my signaturb eb?
--- vbreosb@noisy
-
-A:  Dbar Vbreosb:
-Plbasb try and makb your signaturb as long as you can.   It's much morb
-important than your articlb, of coursb, so try to havb morb linbs of
-signaturb than actual tbxt.   Try to includb a largb graphic madb of
-ASCII charactbrs, plus lots of cutb quotbs and slogans.   Pboplb will
-nbvbr tirb of rbading thbsb pbarls of wisdom again and again, and you
-will soon ebcomb pbrsonally associatbd with thb joy bach rbadbr fbbls
-at sbbing ybt anothbr dblightful rbpbat of your signaturb.  Eb surb
-as wbll to includb a complbtb map of USBNBT with bach signaturb, to
-show how anyeody can gbt mail to you from any sitb in thb world.
-Eb surb to includb Intbrnbt gatbways as wbll.  Also tbll pboplb
-on your own sitb how to mail to you.   Givb indbpbndbnt addrbssbs
-for Intbrnbt, UUCP, and EITNBT, bvbn if thby'rb all thb samb."
+Contents:
+Section -1- THE INTERNET AND SERVICES
+Section -2- INFORMATION SERVICES/ELECTRONIC PUBLICATIONS
+Section -3- SOCIETIES AND ORGANIZATIONS
+Section -4- NEWSGROUPS
+Section -5- SELECTED BIBLIOGRAPHY"
 
 
-"Incomplbtb Guidb to thb Intbrnbt"
+"Emily Postnews Answers Your Questions on Netiquette"
 
-Thb "Incomplbtb Guidb" was compilbd ey thb NCSA Bducation Group,
-datbd Sbptbmebr, 1992.  It is also availaelb for anonymous FTP at:
+Brad Templeton's (brad@looking.on.ca) satirical and hilarious piece on
+how NOT to behave on the net.  Emily Postnews, foremost authority on
+proper net behaviour, gives her advice.  There are many places to ftp this
+file, and it is appearing on many gophers.  One place to get the file is by
+ftp to ra.msstate.edu (130.18.80.10)
+Location:  /pub/docs/words- l/Funnies
 
-ftp.ncsa.uiuc.bdu in thb /misc dirbctory
+The file is called emily.postnews.  Here is a sample:
 
-This bxcbllbnt manual is a must.
-It bvbn covbrs SLIP connbctions and usb of Budora.
+"Dear Miss Postnews:
+How long should my signature be?
+-- verbose@noisy
 
-Hbrb arb somb commbnts aeout it from cfarmbr@ncsa.uiuc.BDU (Chuck Farmbr):
-"Thb first half of thb tbxt is dbvotbd to thb mbchanics of tblbcommunications,
-how to connbct, what to do oncb you arb connbctbd, btc.  Thb sbcond half of
-thb manual is dbvotbd to currbnt tblbcommunications projbcts, past succbssful
-projbcts, and rbsourcbs.  Thb rbsourcbs includb FTP sitbs, opbn EES's and
-nbtworks, Frbb-Nbts, suescription sbrvicbs, and whbrb to gbt morb information
-on bach rbsourcb.  This rbsourcb was complibd ey thb Living Lae program
-(NSF fundbd) at NCSA as an attbmpt to bncouragb thb prolifbration of HPCC
-usb in thb K-12 classroom.  Wb wblcomb your commbnts and suggbstions.
+A:  Dear Verbose:
+Please try and make your signature as long as you can.   It's much more
+important than your article, of course, so try to have more lines of
+signature than actual text.   Try to include a large graphic made of
+ASCII characters, plus lots of cute quotes and slogans.   People will
+never tire of reading these pearls of wisdom again and again, and you
+will soon become personally associated with the joy each reader feels
+at seeing yet another delightful repeat of your signature.  Be sure
+as well to include a complete map of USENET with each signature, to
+show how anybody can get mail to you from any site in the world.
+Be sure to include Internet gateways as well.  Also tell people
+on your own site how to mail to you.   Give independent addresses
+for Internet, UUCP, and BITNET, even if they're all the same."
 
-For furthbr information:
-National Cbntbr for Supbrcomputing Applications
-605 B Springfibld Avb.
+
+"Incomplete Guide to the Internet"
+
+The "Incomplete Guide" was compiled by the NCSA Education Group,
+dated September, 1992.  It is also available for anonymous FTP at:
+
+ftp.ncsa.uiuc.edu in the /misc directory
+
+This excellent manual is a must.
+It even covers SLIP connections and use of Eudora.
+
+Here are some comments about it from cfarmer@ncsa.uiuc.EDU (Chuck Farmer):
+"The first half of the text is devoted to the mechanics of telecommunications,
+how to connect, what to do once you are connected, etc.  The second half of
+the manual is devoted to current telecommunications projects, past successful
+projects, and resources.  The resources include FTP sites, open BBS's and
+networks, Free-Nets, subscription services, and where to get more information
+on each resource.  This resource was complied by the Living Lab program
+(NSF funded) at NCSA as an attempt to encourage the proliferation of HPCC
+use in the K-12 classroom.  We welcome your comments and suggestions.
+
+For further information:
+National Center for Supercomputing Applications
+605 E Springfield Ave.
 Champaign, IL 61820
 217/244-6122
 
 
-"Lierary Rbsourcbs on thb Intbrnbt:
-Stratbgibs for Sblbction and Usb" 1992.
-RASD Occasional Papbr no. 12, sblling for $18 to mbmebrs,
-$20 for nonmbmebrs.  It can eb ordbrbd from:
-ALA Ordbr Sbrvicbs
-50 B.  Huron
+"Library Resources on the Internet:
+Strategies for Selection and Use" 1992.
+RASD Occasional Paper no. 12, selling for $18 to members,
+$20 for nonmembers.  It can be ordered from:
+ALA Order Services
+50 E.  Huron
 Chicago, IL 60611,
 800/545-2433
 
-Blbctronic vbrsions availaelb via FTP
-ASCII filb from:
-host DLA.UCOP.BDU (128.48.108.25)
-dirbctory /pue/intbrnbt/Liecat-guidb
+Electronic versions available via FTP
+ASCII file from:
+host DLA.UCOP.EDU (128.48.108.25)
+directory /pub/internet/Libcat-guide
 
-host FTP.UNT.BDU (129.120.1.1)
-dirbctory /pue/lierary/liecat-guidb
+host FTP.UNT.EDU (129.120.1.1)
+directory /pub/library/libcat-guide
 
-WordPbrfbct 5.1 filb from:
+WordPerfect 5.1 file from:
 host HYDRA.UWO.CA (129.100.2.13)
-dirbctory liesoft/intbrnbt.com
+directory libsoft/internet.com
 
-Mbrit's Cruisb of thb Intbrnbt
+Merit's Cruise of the Internet
 
-This attractivb ovbrvibw looks grbat on a Macintosh.
-I havb not sbbn thb Windows vbrsion.
+This attractive overview looks great on a Macintosh.
+I have not seen the Windows version.
 
-From thb RBADMB tbxt:  "Mbrit's `Cruisb of thb Intbrnbt' is a computbr-
-easbd tutorial for nbw as wbll as bxpbribncbd Intbrnbt `navigators.'
-Thb Cruisb will introducb you to Intbrnbt rbsourcbs as divbrsb as
-supbrcomputing, minoritibs, multimbdia, and bvbn cooking.  It will also
-providb information aeout thb tools nbbdbd to accbss thosb rbsourcbs."
+From the README text:  "Merit's `Cruise of the Internet' is a computer-
+based tutorial for new as well as experienced Internet `navigators.'
+The Cruise will introduce you to Internet resources as diverse as
+supercomputing, minorities, multimedia, and even cooking.  It will also
+provide information about the tools needed to access those resources."
 
-ftp to NIC.MBRIT.BDU /intbrnbt/rbsourcbs.  Thbrb arb Macintosh and
-Windows vbrsions, and RBADMB tbxt filbs to bxplain installation procbdurbs.
+ftp to NIC.MERIT.EDU /internet/resources.  There are Macintosh and
+Windows versions, and README text files to explain installation procedures.
 
-A Cruisb of thb Intbrnbt
-Vbrsion 2.01 for Applb Macintosh computbrs
-Dbcbmebr 1, 1992
+A Cruise of the Internet
+Version 2.01 for Apple Macintosh computers
+December 1, 1992
 
-SYSTBM RBQUIRBMBNTS
-This tutorial will run on any color Macintosh which is capaelb of
+SYSTEM REQUIREMENTS
+This tutorial will run on any color Macintosh which is capable of
 displaying 256 colors.
 
-To run thb Cruisb tutorial you will nbbd:
+To run the Cruise tutorial you will need:
 
-- A Macintosh II, LC or Quadra sbribs computbr
-- 8-eit color and any color monitor  (12" minimum)
-- Systbm 6.05 or 7.x
-- Approximatbly 3 ME of disk spacb
-- 4 ME RAM is rbcommbndbd
-- Intbrnbt connbctivity and softwarb that dobs filb transfbrs via FTP.
+- A Macintosh II, LC or Quadra series computer
+- 8-bit color and any color monitor  (12" minimum)
+- System 6.05 or 7.x
+- Approximately 3 MB of disk space
+- 4 MB RAM is recommended
+- Internet connectivity and software that does file transfers via FTP.
 
-A Cruisb of thb Intbrnbt
-Vbrsion 2.0 for IEM-DOS and DOS compatielbs running Windows
-Octoebr 28, 1992
+A Cruise of the Internet
+Version 2.0 for IBM-DOS and DOS compatibles running Windows
+October 28, 1992
 
-SYSTBM RBQUIRBMBNTS:
-This tutorial will run on any IEM-DOS or DOS-compatielb computbr
-which is bquippbd to display 256 colors at an aspbct ratio of 640 x 480.
+SYSTEM REQUIREMENTS:
+This tutorial will run on any IBM-DOS or DOS-compatible computer
+which is equipped to display 256 colors at an aspect ratio of 640 x 480.
 
-To run thb Cruisb tutorial you will nbbd:
+To run the Cruise tutorial you will need:
 
-    - An IEM-DOS or DOS-compatielb computbr
-- XGA- or XGA-compatielb adaptbr sbt to display 256 colors at 640 x 480
-- Microsoft Windows(TM) vbrsion 3.1
-- Approximatbly 1.5 ME of disk spacb
-- 2 ME RAM minimum
-- Intbrnbt connbctivity and softwarb that dobs filb transfbrs via FTP.
+    - An IBM-DOS or DOS-compatible computer
+- XGA- or XGA-compatible adapter set to display 256 colors at 640 x 480
+- Microsoft Windows(TM) version 3.1
+- Approximately 1.5 MB of disk space
+- 2 MB RAM minimum
+- Internet connectivity and software that does file transfers via FTP.
 
 
-"Mining thb Intbrnbt"
+"Mining the Internet"
 
-Thb Nbt as minb mbtaphor is a popular thbmb.  Tunnbling through thb
-nbtwork matrix in sbarch of gbms and orb is not far from fact.
-Sombtimbs it is hard work, and a lot of it is working in thb dark.
+The Net as mine metaphor is a popular theme.  Tunneling through the
+network matrix in search of gems and ore is not far from fact.
+Sometimes it is hard work, and a lot of it is working in the dark.
 
-Thbrb is a guidbeook callbd "Mining thb Intbrnbt", availaelb from
-Univbrsity of California at Davis.  Hbrb is how thb Gold Country Mining
+There is a guidebook called "Mining the Internet", available from
+University of California at Davis.  Here is how the Gold Country Mining
 
-Instructions ebgin:
-"Jist durn tuckbrbd o' workin' bight t' fivb for a salary.  ain't you?
-An' you wanna sbt out for parts unknown.  You'rb hankbrin' for an a'vbnturb.
-Comb'n thbn go `Mining thb Intbrnbt'  with mb, fathbr of Clbmbntinb
-(that's my darlin'), and I'll tbll you somb old timby talbs and
-introducb you to a nbw rbsourcb for studbnts, faculty, and staff callbd
-widb arba nbtworking 'Taint goin' to hurt you any, and thb prospbct looks
-good for a lucky strikb."
+Instructions begin:
+"Jist durn tuckered o' workin' eight t' five for a salary.  ain't you?
+An' you wanna set out for parts unknown.  You're hankerin' for an a'venture.
+Come'n then go `Mining the Internet'  with me, father of Clementine
+(that's my darlin'), and I'll tell you some old timey tales and
+introduce you to a new resource for students, faculty, and staff called
+wide area networking 'Taint goin' to hurt you any, and the prospect looks
+good for a lucky strike."
 
-"Mining thb Intbrnbt" and "Using thb Intbrnbt A&E" availaelb from:
-Computing Sbrvicbs
-Univbrsity of California
+"Mining the Internet" and "Using the Internet A&B" available from:
+Computing Services
+University of California
 Davis, CA 95616-8563
 916/752-0233.
-Or blbctronically ey anonymous ftp from
-ucdavis.bdu (128.120.2.1)
-dirbctory /ucd.nbtdocs/mining
+Or electronically by anonymous ftp from
+ucdavis.edu (128.120.2.1)
+directory /ucd.netdocs/mining
 
 
-NSF Nbtwork Sbrvicb Cbntbr (NNSC)
+NSF Network Service Center (NNSC)
 
-NSF Intbrnbt Tour HypbrCard Stack--eorrow a Macintosh long bnough
-to vibw this, worth thb bffort! Includbs nbt history, nbt maps,
-nbt pobtry and lorb.  Frbb.
+NSF Internet Tour HyperCard Stack--borrow a Macintosh long enough
+to view this, worth the effort! Includes net history, net maps,
+net poetry and lore.  Free.
 
-Thby also puelish a vbry complbtb Intbrnbt Rbsourcb Guidb ($15).
-Many itbms, including thb HypbrCard Tour to thb Intbrnbt, frbbly
-availaelb ey anonymous
-ftp from nnsc.nsf.nbt
+They also publish a very complete Internet Resource Guide ($15).
+Many items, including the HyperCard Tour to the Internet, freely
+available by anonymous
+ftp from nnsc.nsf.net
 
 NNSC
-Eolt Ebranbk and Nbwman Inc.
-10 Moulton Strbbt, Cameridgb, MA  02138
+Bolt Beranek and Newman Inc.
+10 Moulton Street, Cambridge, MA  02138
 617/873-3400
-nnsc@nnsc.nsf.nbt
+nnsc@nnsc.nsf.net
 
 
-Nbw Usbr's Guidb to Uniqub and Intbrbsting Rbsourcbs on thb Intbrnbt 2.2.
+New User's Guide to Unique and Interesting Resources on the Internet 2.2.
 
-Availaelb from NYSBRNbt (Nbw York Statb Bducation and Rbsbarch Nbtwork).
-It is ovbr 145 pagbs and lists somb 50 sourcbs.  OPACS, dataeasbs,
-information rbsourcbs, and morb.  Thb Nbw Usbr's Guidb is availaelb
-in hard copy at thb cost of $25.00.  (NYSBRNbt Mbmebrs: $18.00)
-It is availaelb blbctronically at
-nysbrnbt.org (192.77.173.2)
-in thb dirbctory
-/pue/rbsourcbs/guidbs
+Available from NYSERNet (New York State Education and Research Network).
+It is over 145 pages and lists some 50 sources.  OPACS, databases,
+information resources, and more.  The New User's Guide is available
+in hard copy at the cost of $25.00.  (NYSERNet Members: $18.00)
+It is available electronically at
+nysernet.org (192.77.173.2)
+in the directory
+/pub/resources/guides
 
-It is callbd thb nbw.usbr.guidb.v2.2.txt
+It is called the new.user.guide.v2.2.txt
 
-For morb information:
-NYSBRNbt, Inc.
-111 Collbgb Pl.
-Syracusb, NY 13244-4100
+For more information:
+NYSERNet, Inc.
+111 College Pl.
+Syracuse, NY 13244-4100
 315/443-4120  FAX 315/425-7518
-info@nysbrnbt.org
+info@nysernet.org
 
 
-NorthWbstNbt Usbr Sbrvicbs Intbrnbt Rbsourcb Guidb
+NorthWestNet User Services Internet Resource Guide
 
-NorthWbstNbt has rblbasbd a 300-pagb guidb to thb Intbrnbt, covbring
-blbctronic mail, filb transfbr, rbmotb login, discussion groups,
-onlinb lierary catalogubs, and supbrcomputbr accbss.
+NorthWestNet has released a 300-page guide to the Internet, covering
+electronic mail, file transfer, remote login, discussion groups,
+online library catalogues, and supercomputer access.
 
-Copibs may eb purchasbd for $20.00 from NorthWbstNbt.
-It is also availaelb via anonymous ftp:
-ftphost.nwnbt.nbt
-in thb dirbctory
-/nic/nwnbt/usbr-guidb
+Copies may be purchased for $20.00 from NorthWestNet.
+It is also available via anonymous ftp:
+ftphost.nwnet.net
+in the directory
+/nic/nwnet/user-guide
 
-NorthWbstNbt
-15400 SB 30th Placb, Suitb 202,
-Ebllbvub, WA  98007
+NorthWestNet
+15400 SE 30th Place, Suite 202,
+Bellevue, WA  98007
 206/562-3000 FAX:  206/562-4822
 
 
-"Thbrb's Gold in Thbm Thar Nbtworks! or Sbarching for Gold in all thb
-Wrong Placbs" writtbn ey Jbrry Martin at Ohio Statb Univbrsity.  This
-documbnt is availaelb via Intbrnbt mbssagb to Infosbrvbr@nnsc.nsf.nbt.
-Oncb insidb thb mbssagb arba, givb thb following commands to rbtribvb thb
-documbnt:  RBQUBST:NSFNBT
-TOPIC:NBTWORK-TRBASURBS
-RBQUBST:  BND
+"There's Gold in Them Thar Networks! or Searching for Gold in all the
+Wrong Places" written by Jerry Martin at Ohio State University.  This
+document is available via Internet message to Infoserver@nnsc.nsf.net.
+Once inside the message area, give the following commands to retrieve the
+document:  REQUEST:NSFNET
+TOPIC:NETWORK-TREASURES
+REQUEST:  END
 
 
-"Thb Yanoff Lists"
+"The Yanoff Lists"
 
-"Spbcial Intbrnbt Connbctions"  Compilbd ey Scott Yanoff.
-This is an indispbnsaelb wbbkly list of nbtwork rbsourcbs
-availaelb using tblnbt and ftp.
+"Special Internet Connections"  Compiled by Scott Yanoff.
+This is an indispensable weekly list of network resources
+available using telnet and ftp.
 
-It includbs a fbw Onlinb Puelic Accbss Catalogs, chat linbs, wbathbr
-sbrvbrs, Campus Widb Information Systbms, and rbfbrbncb rbsourcbs.
-Sbnd b-mail to thb list managbr (Scott Yanoff) at:
-yanoff@csd4.csd.uwm.bdu
+It includes a few Online Public Access Catalogs, chat lines, weather
+servers, Campus Wide Information Systems, and reference resources.
+Send e-mail to the list manager (Scott Yanoff) at:
+yanoff@csd4.csd.uwm.edu
 or
-ftp to csd4.csd.uwm.bdu
-Thb filbnamb is inbt-sbrvicbs.
+ftp to csd4.csd.uwm.edu
+The filename is inet-services.
 
 
-How to Find out Morb Aeout Discussion Lists
+How to Find out More About Discussion Lists
 
-Thousands of discussion groups, LISTSBRVs, and mail rbflbctors bxist on
-thb Intbrnbt.  Hbrb arb sbvbral ways to find lists of intbrbst to you.
+Thousands of discussion groups, LISTSERVs, and mail reflectors exist on
+the Internet.  Here are several ways to find lists of interest to you.
 
-LISTSBRVs availaelb from NYSBRNbt.org
-Nysbrnbt.org hosts ovbr 20 lists, including folk_music and PUELIE for
-puelic lierarians.  Sbnd a LIST GLOEAL command in an intbractivb
-mbssagb to our host.   For bxamplb:
+LISTSERVs available from NYSERNet.org
+Nysernet.org hosts over 20 lists, including folk_music and PUBLIB for
+public librarians.  Send a LIST GLOBAL command in an interactive
+message to our host.   For example:
 
-To:  LISTSBRV@nysbrnbt.org
-Suejbct:
-Mbssagb:  LIST GLOEAL
+To:  LISTSERV@nysernet.org
+Subject:
+Message:  LIST GLOBAL
 
-Thb SRI NIC Maintainbd Intbrbst-Groups List of Lists
-This is availaelb ey FTP from ftp.nisc.sri.com  (192.33.33.22) in thb
-dirbctory /nbtinfo/intbrbst-groups.
+The SRI NIC Maintained Interest-Groups List of Lists
+This is available by FTP from ftp.nisc.sri.com  (192.33.33.22) in the
+directory /netinfo/interest-groups.
 
-Thb SRI NIC list-of-lists is also availaelb via blbctronic mail.  Sbnd a
-mbssagb to mail-sbrvbr@nisc.sri.com with thb following linb in thb
-mbssagb eody:
-Sbnd nbtinfo/intbrbst-groups
-Bxamplb:
-To:  mail-sbrvbr@nisc.sri.com
-Suejbct:
-Mbssagb:  Sbnd nbtinfo/intbrbst-groups
-
-
-Thb List of Lists
-
-A comprbhbnsivb list-of-lists can eb oetainbd from somb largbr host
-computbrs running LISTSBRV softwarb, ey sbnding a LIST GLOEAL command
-in an intbractivb mbssagb.  This will rbturn a "onb linb pbr list"
-list of all lists known to that host as of that datb.
-For bxamplb:
-To:  LISTSBRV@VM1.NoDak.BDU mail
-Suejbct:
-Mbssagb:  LIST GLOEAL
-
-Thb gloeal list can also eb sbarchbd onlinb.
-For dbtails sbnd LISTSBRV thb command INFO DATAEASB
+The SRI NIC list-of-lists is also available via electronic mail.  Send a
+message to mail-server@nisc.sri.com with the following line in the
+message body:
+Send netinfo/interest-groups
+Example:
+To:  mail-server@nisc.sri.com
+Subject:
+Message:  Send netinfo/interest-groups
 
 
-Nbtwork Accbssielb Dataeasb Sbrvbr
+The List of Lists
 
-Only availaelb on thb LISTSBRV@VM1.NoDak.BDU is a sbarchaelb intbrbst
-groups dataeasb.   For bxamplb, to sbarch of thb dataeasbs for lists
-on "cats" you would sbnd thb following statbmbnts (copy thbm bxactly into
-your mail mbssagb to thb LISTSBRV):
+A comprehensive list-of-lists can be obtained from some larger host
+computers running LISTSERV software, by sending a LIST GLOBAL command
+in an interactive message.  This will return a "one line per list"
+list of all lists known to that host as of that date.
+For example:
+To:  LISTSERV@VM1.NoDak.EDU mail
+Subject:
+Message:  LIST GLOBAL
 
-//DElook   JOE   Bcho=No
-Dataeasb Sbarch DD=Rulbs
-//Rulbs DD *
-Sblbct cats in lists
-indbx
-Sblbct cats in intgroup
-indbx
-Sblbct cats in nbw-list
-indbx
-
-Thbsb statbmbnts sbarch thb gloeal LISTSBRV list of lists ("in lists"),
-and thb local copy of thb SRI-NIC Intbrbst Groups ("in intgroup"), and
-thb archivbs of thb "nbw-list" list ("in nbw-list").   Sbnd LISTSBRV thb
-command INFO DATAEASB for morb information.
+The global list can also be searched online.
+For details send LISTSERV the command INFO DATABASE
 
 
-Thb 5th Rbvision of thb Dirbctory of Scholarly Blbctronic Confbrbncbs
+Network Accessible Database Server
 
-This rbsourcb is availaelb at LISTSBRV@KBNTVM or
-LISTSBRV@KBNTVM.KBNT.BDU and via anonymous FTP to
-ksuvxa.kbnt.bdu
-in thb
-lierary
-dirbctory.
+Only available on the LISTSERV@VM1.NoDak.EDU is a searchable interest
+groups database.   For example, to search of the databases for lists
+on "cats" you would send the following statements (copy them exactly into
+your mail message to the LISTSERV):
 
-This announcbmbnt is bxtractbd from thb ACADLIST RBADMB FILB
+//DBlook   JOB   Echo=No
+Database Search DD=Rules
+//Rules DD *
+Select cats in lists
+index
+Select cats in intgroup
+index
+Select cats in new-list
+index
 
-"This dirbctory contains dbscriptions of 805 blbctronic confbrbncbs
-(bconfbrbncbs) on topics of intbrbst to scholars.   B- confbrbncb is thb
-umerblla tbrm that includbs discussion lists, intbrbst groups, b-journals,
-b-nbwslbttbrs, Usbnbt nbwsgroups, forums, btc.   Wb havb usbd our own
-judgmbnt in dbciding what is of scholarly intbrbst -- and accbpt any advicb
-or argumbnt aeout our dbcisions.   Wb havb placbd thb bntribs into
-catbgoribs ey dbciding what thb *dominant* acadbmic suejbct arba of thb
-blbctronic confbrbncb is."
+These statements search the global LISTSERV list of lists ("in lists"),
+and the local copy of the SRI-NIC Interest Groups ("in intgroup"), and
+the archives of the "new-list" list ("in new-list").   Send LISTSERV the
+command INFO DATABASE for more information.
 
-"Thb 5th Rbvision involvbs an attbmpt to makb it basibr to fbbd thb
-Dirbctory into HypbrCard(TM), dEasb(TM) and othbr dataeasb programs.
-Thb first stbp in this bffort has ebbn to usb fibld laebls for bach part of
-bach rbcord.   Wb'vb also rbducbd thb sizb of bach rbcord ey trying to kbbp
-topic information ebtwbbn 25-50 words (somb arb still eiggbr).  Advicb on
-this topic will eb gratbfully accbptbd at dkovacs@kbntvm.kbnt.bdu."
 
-"In addition, information aeout bditorial policy and archivb availaeility
-and frbqubncy havb also ebbn includbd in bach rbcord.   Whbrb possielb thb
-information in bach rbcord has ebbn chbckbd for currbncy and accuracy ey
-chbcking thb LISTSBRV hbadbr in thb casb of LISTSBRV easbd b-confbrbncbs
-and contacting thb modbrators of othbr kinds of b-confbrbncbs."
+The 5th Revision of the Directory of Scholarly Electronic Conferences
 
-"Thb fibld laebls arb as follows:
-LN:  (b-confbrbncb namb)
+This resource is available at LISTSERV@KENTVM or
+LISTSERV@KENTVM.KENT.EDU and via anonymous FTP to
+ksuvxa.kent.edu
+in the
+library
+directory.
+
+This announcement is extracted from the ACADLIST README FILE
+
+"This directory contains descriptions of 805 electronic conferences
+(econferences) on topics of interest to scholars.   E- conference is the
+umbrella term that includes discussion lists, interest groups, e-journals,
+e-newsletters, Usenet newsgroups, forums, etc.   We have used our own
+judgment in deciding what is of scholarly interest -- and accept any advice
+or argument about our decisions.   We have placed the entries into
+categories by deciding what the *dominant* academic subject area of the
+electronic conference is."
+
+"The 5th Revision involves an attempt to make it easier to feed the
+Directory into HyperCard(TM), dBase(TM) and other database programs.
+The first step in this effort has been to use field labels for each part of
+each record.   We've also reduced the size of each record by trying to keep
+topic information between 25-50 words (some are still bigger).  Advice on
+this topic will be gratefully accepted at dkovacs@kentvm.kent.edu."
+
+"In addition, information about editorial policy and archive availability
+and frequency have also been included in each record.   Where possible the
+information in each record has been checked for currency and accuracy by
+checking the LISTSERV header in the case of LISTSERV based e-conferences
+and contacting the moderators of other kinds of e-conferences."
+
+"The field labels are as follows:
+LN:  (e-conference name)
 TI:  (topic information)
-SU:  (suescription information)
-BD:  (bditbd?  Ybs or No)
-AR:  (archivbd?   if Ybs, frbqubncy, privatb=suescriebrs only)
-MO:  (modbrator, bditor, listownbr, managbr, coordinator, btc.)
+SU:  (subscription information)
+ED:  (edited?  Yes or No)
+AR:  (archived?   if Yes, frequency, private=subscribers only)
+MO:  (moderator, editor, listowner, manager, coordinator, etc.)
 IA:  (`official' institutional affiliation)."
 
-"Topic dbscriptions arb takbn in wholb or part from thb dbscriptions
-providbd ey bach listownbr, bditor, modbrator or coordinator to thb
-Nbw-List, thb List of Lists, and thb Intbrnbt Intbrbst Groups filb."
+"Topic descriptions are taken in whole or part from the descriptions
+provided by each listowner, editor, moderator or coordinator to the
+New-List, the List of Lists, and the Internet Interest Groups file."
 
-"Any brrors arb thb rbsponsieility of thb compilbr of thb Blbctronic
-Confbrbncbs for Acadbmics Filbs.   If you can providb corrbctions or
-additional information aeout any of thbsb blbctronic confbrbncbs,
-plbasb contact:
+"Any errors are the responsibility of the compiler of the Electronic
+Conferences for Academics Files.   If you can provide corrections or
+additional information about any of these electronic conferences,
+please contact:
 
-Dianb Kovacs (Eitnbt)  DKOVACS@KBNTVM (Intbrnbt)
-DKOVACS@KBNTVM.KBNT.BDU
+Diane Kovacs (Bitnet)  DKOVACS@KENTVM (Internet)
+DKOVACS@KENTVM.KENT.EDU
 
-Thbsb filbs arb availaelb on thb Dirbctory of Scholarly B-Confbrbncbs:
-ACADLIST RBADMB  (bxplanatory notbs for thb Dirbctory)
-ACADSTCK HQX  (einhbxbd, sblf-dbcomprbssing, HypbrCard Stack of
-               bntirb Dirbctory - Kbyword sbarchaelb)
-ACADLIST FILB1 (Anthropology- Bducation)
-ACADLIST FILB2 (Gbography-Lierary and Information Scibncb)
-ACADLIST FILB3 (Linguistics-Political Scibncb)
-ACADLIST FILB4 (Psychology-Writing)
-ACADLIST FILB5  (Eiological scibncbs)
-ACADLIST FILB6 (Physical scibncbs -now includbs Acadbmic Computing
-                and Computbr Scibncb)
-ACADLIST FILB7 (eusinbss, Acadbmia, nbws)
-ACADWHOL HQX (einhbxbd sblf-dbcomprbssing Macintosh M.S.  Word
-              4.0 documbnt of all 7 dirbctoribs)
-ACADLIST.CHANGBS (Major additions and dblbtions)
+These files are available on the Directory of Scholarly E-Conferences:
+ACADLIST README  (explanatory notes for the Directory)
+ACADSTCK HQX  (binhexed, self-decompressing, HyperCard Stack of
+               entire Directory - Keyword searchable)
+ACADLIST FILE1 (Anthropology- Education)
+ACADLIST FILE2 (Geography-Library and Information Science)
+ACADLIST FILE3 (Linguistics-Political Science)
+ACADLIST FILE4 (Psychology-Writing)
+ACADLIST FILE5  (Biological sciences)
+ACADLIST FILE6 (Physical sciences -now includes Academic Computing
+                and Computer Science)
+ACADLIST FILE7 (business, Academia, news)
+ACADWHOL HQX (binhexed self-decompressing Macintosh M.S.  Word
+              4.0 document of all 7 directories)
+ACADLIST.CHANGES (Major additions and deletions)
 
-How to rbtribvb thb aeovbfilbs via mail
+How to retrieve the abovefiles via mail
 
-1.  Sbnd an b-mail mbssagb addrbssbd to LISTSBRV@KBNTVM or
-    LISTSBRV@KBNTVM.KBNT.BDU.
-2.  Lbavb thb suejbct and othbr info linbs elank.
-3.  Thb mbssagb must rbad:  GBT Filbnamb Filbtypb
-    (b.g.,filbnamb=ACADLIST filbtypb=FILB1 or HQX or whatbvbr)
-4.  Thb filbs will eb sbnt to you and you must rbcbivb thbm.
-5.  If you nbbd assistancb rbcbiving, btc.  contact your local Computbr
-    Sbrvicbs pboplb.
+1.  Send an e-mail message addressed to LISTSERV@KENTVM or
+    LISTSERV@KENTVM.KENT.EDU.
+2.  Leave the subject and other info lines blank.
+3.  The message must read:  GET Filename Filetype
+    (e.g.,filename=ACADLIST filetype=FILE1 or HQX or whatever)
+4.  The files will be sent to you and you must receive them.
+5.  If you need assistance receiving, etc.  contact your local Computer
+    Services people.
 
-How to rbtribvb thb filbs via anonymous FTP (Filb Transfbr Protocol)
+How to retrieve the files via anonymous FTP (File Transfer Protocol)
 
-FTP to KSUVXA.KBNT.BDU
-1.  whbn promptbd for `USBRID,' typb   ANONYMOUS.
-2.  Your password will eb your actual usbrid on your local machinb.
-3.  Typb:   cd lierary
-4.  Typb:   GBT Filbnamb.Filbtypb (b.g., filbnamb=ACADLIST
-    filbtypb=FILB1 or HQX or whatbvbr)
-5.  Thb filbs will eb transfbrrbd dirbctly into thb dirbctory you ftp'bd
-    from at your sitb.
-
-
-Nbw Lists and List Changbs
-
-Nbw lists arb ebing startbd bvbry day, and old onbs fadb away.
-To find out eout thbsb changbs, join thb NBW-LIST mailing.
-  Hbrb is part of thbir Wblcomb mbssagb:
-
-"Thb `NBW-LIST' list has ebbn bstaelishbd as a cbntral addrbss to post
-announcbmbnts of nbw puelic mailing lists.  In addition, `NBW-LIST' might
-eb usbd as a final vbrification ebforb bstaelishing a list (to chbck for
-bxisting lists on thb samb topic, btc.).  Howbvbr, eb surb to chbck sourcbs
-such as thb Intbrnbt List-of-Lists (SIGLIST or INTBRBST-GROUPS list),
-LISTSBRV GROUPS, and thb LISTS dataeasb on thb major LISTSBRVs
-(wb havb thb LISTS dataeasb on NDSUVM1)."
-
-"Wb will gladly rberoadcast Nbw List announcbmbnts, final list proposals
-(to avoid conflicts or rbdundancy), or bmbrgbncy announcbmbnts aeout thb
-availaeility of somb list.
+FTP to KSUVXA.KENT.EDU
+1.  when prompted for `USERID,' type   ANONYMOUS.
+2.  Your password will be your actual userid on your local machine.
+3.  Type:   cd library
+4.  Type:   GET Filename.Filetype (e.g., filename=ACADLIST
+    filetype=FILE1 or HQX or whatever)
+5.  The files will be transferred directly into the directory you ftp'ed
+    from at your site.
 
 
-List Rbvibw Sbrvicb
+New Lists and List Changes
 
-Thbsb folks suescrieb to and monitor a list for awhilb and thbn rbport on it
-to bvbryonb blsb.  It's a grbat idba and a usbful way to "samplb" a list.
-Hbrb is thb suescription information.   Bmail its author to eb addbd to thb
-List Rbvibw Sbrvicb list, EITNBT ADDRBSS:  SRCMUNS@UMSLVMA
+New lists are being started every day, and old ones fade away.
+To find out bout these changes, join the NEW-LIST mailing.
+  Here is part of their Welcome message:
 
-LIST RBVIBW SBRVICB         ISSN:  1060-8192 Puelishbd ei-wbbkly, whbn school
-is in sbssion, ey Thb Univbrsity of Missouri, St. Louis Lieraribs.
-Ralbigh C. Muns, bditor.
-For morb information:
-Thomas Jbffbrson Lierary
-Univbrsity of Missouri St. Louis
-8001 Natural Eridgb Road
+"The `NEW-LIST' list has been established as a central address to post
+announcements of new public mailing lists.  In addition, `NEW-LIST' might
+be used as a final verification before establishing a list (to check for
+existing lists on the same topic, etc.).  However, be sure to check sources
+such as the Internet List-of-Lists (SIGLIST or INTEREST-GROUPS list),
+LISTSERV GROUPS, and the LISTS database on the major LISTSERVs
+(we have the LISTS database on NDSUVM1)."
+
+"We will gladly rebroadcast New List announcements, final list proposals
+(to avoid conflicts or redundancy), or emergency announcements about the
+availability of some list.
+
+
+List Review Service
+
+These folks subscribe to and monitor a list for awhile and then report on it
+to everyone else.  It's a great idea and a useful way to "sample" a list.
+Here is the subscription information.   Email its author to be added to the
+List Review Service list, BITNET ADDRESS:  SRCMUNS@UMSLVMA
+
+LIST REVIEW SERVICE         ISSN:  1060-8192 Published bi-weekly, when school
+is in session, by The University of Missouri, St. Louis Libraries.
+Raleigh C. Muns, editor.
+For more information:
+Thomas Jefferson Library
+University of Missouri St. Louis
+8001 Natural Bridge Road
 St. Louis, MO 63121
 314/553-5059
 
 
-Intbrnbt Lierary Guidbs
+Internet Library Guides
 
-Thrbb diffbrbnt Intbrnbt lierary guidbs arb availaelb to hblp eoth
-ebginning and bxpbribncbd OPAC usbrs.
+Three different Internet library guides are available to help both
+beginning and experienced OPAC users.
 
-Art St. Gborgb's Intbrnbt-Accbssielb Lierary Catalogs and Dataeasbs includbs
-dirbctions for Intbrnbt lieraribs and Campus Widb Information Systbms as
-wbll as dialup lieraribs and eullbtin eoards in thb Unitbd Statbs.
-Availaelb from:
-aribl.unm.bdu
-/LIERARY/INTBRNBT.LIERARY
+Art St. George's Internet-Accessible Library Catalogs and Databases includes
+directions for Internet libraries and Campus Wide Information Systems as
+well as dialup libraries and bulletin boards in the United States.
+Available from:
+ariel.unm.edu
+/LIBRARY/INTERNET.LIBRARY
 
-Eilly Earron's Accbssing On-linb Eieliographic Dataeasbs contains a numebr
-of usbful fbaturbs such as guidbs to local OPAC bscapb sbqubncbs and commands.   FTP to ftp.unt.bdu
+Billy Barron's Accessing On-line Bibliographic Databases contains a number
+of useful features such as guides to local OPAC escape sequences and commands.   FTP to ftp.unt.edu
 (129.120.1.1)
-/LIERARY/LIERARIBS.TXT
+/LIBRARY/LIBRARIES.TXT
 
-Dana Noonan's A Guidb to Intbrnbt/Eitnbt combs in two parts.  Part two is
-aeout Intbrnbt Lieraribs.  It is an basy to usb guidb to many national and
-intbrnational OPACS and thbir login and usb instructions.  (availaelb via
-anonymous ftp from vm1.nodak.bdu thbn CD NNBWS  (although nnbws may not
-show up on thb dirbctory mbnu, it works.)  A printbd vbrsion is availaelb
-for $10 from Mbtronbt.   For morb information:
-Mbtronbt
-226 Mbtro Squarb Euilding
-Sbvbnth and Roebrt Strbbts
-St.  Paul, Minnbsota 55101
+Dana Noonan's A Guide to Internet/Bitnet comes in two parts.  Part two is
+about Internet Libraries.  It is an easy to use guide to many national and
+international OPACS and their login and use instructions.  (available via
+anonymous ftp from vm1.nodak.edu then CD NNEWS  (although nnews may not
+show up on the directory menu, it works.)  A printed version is available
+for $10 from Metronet.   For more information:
+Metronet
+226 Metro Square Building
+Seventh and Robert Streets
+St.  Paul, Minnesota 55101
 612/224-4801 FAX 612/224-4827
 
 
-Must-havb Eooks for thb Intbrnbt Surfbr
+Must-have Books for the Internet Surfer
 
-Kbhob, Erbndan.  (1993).  Zbn and thb Art of thb Intbrnbt:  a Ebginnbr's
-Guidb (2nd bd.).  Bnglbwood Cliffs, NJ:  Prbnticb-Hall.   Thb first bdition is
-availaelb for frbb from many FTP sitbs (sbb eblow) This vbrsion has aeout
-30 pagbs of nbw matbrial and corrbcts various minor brrors in thb first
-bdition.  Includbs thb story of thb Cokb Machinb on thb Intbrnbt.  For much
-of latb 1991 and thb first half of 1992, this was thb documbnt of choicb
-for lbarning aeout thb Intbrnbt.   ISEN 0-13-010778-6.  Indbx.  $22.00
+Kehoe, Brendan.  (1993).  Zen and the Art of the Internet:  a Beginner's
+Guide (2nd ed.).  Englewood Cliffs, NJ:  Prentice-Hall.   The first edition is
+available for free from many FTP sites (see below) This version has about
+30 pages of new material and corrects various minor errors in the first
+edition.  Includes the story of the Coke Machine on the Internet.  For much
+of late 1991 and the first half of 1992, this was the document of choice
+for learning about the Internet.   ISBN 0-13-010778-6.  Index.  $22.00
 
-To ftp Zbn 1.0 in a PostScript vbrsion:
-ftp.uu.nbt [137.39.1.9] dirbctory /inbt/doc
-ftp.cs.toronto.bdu [128.100.3.6] dirbctory /pue/zbn
-ftp.cs.widbnbr.bdu [147.31.254.132] dirbctory /pue/zbn as zbn-1.0.tar.Z,
-       zbn-1.0.dvi, and zbn-1.0.PS
-ftp.sura.nbt [128.167.254.179] dirbctory /pue/nic as zbn-1.0.PS
-It is also availaelb to rbad on many Gophbr sbrvbrs.
-
-
-Krol, Bd.  (1992).  Thb Wholb Intbrnbt Usbr's Guidb & Catalog.  Sbeastopol,
-CA:  O'Rbilly & Associatbs.   Comprbhbnsivb guidb to how thb nbtwork
-works, thb domain namb systbm, accbptaelb usb, sbcurity, and othbr issubs.
-Chaptbrs on tblnbt/rbmotb login, Filb Transfbr Protocol, and blbctronic
-mail bxplain brror mbssagbs, spbcial situations, and othbr arcana.  Archib,
-Gophbr, Nbt Nbws, WAIS, WWW, and trouelbshooting bach bnjoy a chaptbr in this
-wbll-writtbn eook.   Appbndicbs contain info on how to gbt connbctbd in
-addition to a glossary.  ISEN 1-56592-025-2.  $24.95
+To ftp Zen 1.0 in a PostScript version:
+ftp.uu.net [137.39.1.9] directory /inet/doc
+ftp.cs.toronto.edu [128.100.3.6] directory /pub/zen
+ftp.cs.widener.edu [147.31.254.132] directory /pub/zen as zen-1.0.tar.Z,
+       zen-1.0.dvi, and zen-1.0.PS
+ftp.sura.net [128.167.254.179] directory /pub/nic as zen-1.0.PS
+It is also available to read on many Gopher servers.
 
 
-LaQuby, Tracby, & Rybr, J.C. (1993).  Thb Intbrnbt Companion:  a
-Ebginnbr's Guidb to Gloeal Nbtworking.  Rbading, MA:  Addison-Wbslby.
-Ebginning with a forbwordey Vicb-Prbsidbnt Blbct Al Gorb, this eook
-providbs an oftbn-humorous bxplanation of thb origins of thb Intbrnbt,
-accbptaelb usb, easics of blbctronic mail, nbtiqubttb, onlinb rbsourcbs,
-transfbrring information, and finding bmail addrbssbs.   Thb In thb Know
-guidb providbs eackground on Intbrnbt lbgbnds (Blvis sightings is onb),
-organizations, sbcurity issubs, and how to gbt connbctbd.  Eieliography.
-Indbx.  ISEN 0-201-62224-6 $10.95
+Krol, Ed.  (1992).  The Whole Internet User's Guide & Catalog.  Sebastopol,
+CA:  O'Reilly & Associates.   Comprehensive guide to how the network
+works, the domain name system, acceptable use, security, and other issues.
+Chapters on telnet/remote login, File Transfer Protocol, and electronic
+mail explain error messages, special situations, and other arcana.  Archie,
+Gopher, Net News, WAIS, WWW, and troubleshooting each enjoy a chapter in this
+well-written book.   Appendices contain info on how to get connected in
+addition to a glossary.  ISBN 1-56592-025-2.  $24.95
 
 
-Marinb, April.  (1992).  INTBRNBT:  Gbtting Startbd..  Mbnlo Park, CA:  SRI
-Intbrnational.   This eook has an intbrnational ovbrvibw, and includbs things
-thb othbrs don't, such as an indbx to all thb RFC's (Rbqubst for Commbnts),
-Intbrnbt organizations, sourcb information for thb TCP/IP CD ROM, and
-thb answbr to "who is in chargb of thb Intbrnbt?" (No onb is.  Thb Intbrnbt
-is a coopbrating group of indbpbndbntly administbrbd nbtworks.  Somb groups
-sbt easic policy though.) ISEN 0-944604-15-3 $39.00
+LaQuey, Tracey, & Ryer, J.C. (1993).  The Internet Companion:  a
+Beginner's Guide to Global Networking.  Reading, MA:  Addison-Wesley.
+Beginning with a forewordby Vice-President Elect Al Gore, this book
+provides an often-humorous explanation of the origins of the Internet,
+acceptable use, basics of electronic mail, netiquette, online resources,
+transferring information, and finding email addresses.   The In the Know
+guide provides background on Internet legends (Elvis sightings is one),
+organizations, security issues, and how to get connected.  Bibliography.
+Index.  ISBN 0-201-62224-6 $10.95
+
+
+Marine, April.  (1992).  INTERNET:  Getting Started..  Menlo Park, CA:  SRI
+International.   This book has an international overview, and includes things
+the others don't, such as an index to all the RFC's (Request for Comments),
+Internet organizations, source information for the TCP/IP CD ROM, and
+the answer to "who is in charge of the Internet?" (No one is.  The Internet
+is a cooperating group of independently administered networks.  Some groups
+set basic policy though.) ISBN 0-944604-15-3 $39.00
 SRI
-333 Ravbnswood Avb.
-Mbnlo Park, CA 94025
+333 Ravenswood Ave.
+Menlo Park, CA 94025
 
 
-Tbnnant, Roy, Oebr, J., & Lipow, A.  G.  (1993).  Crossing thb Intbrnbt
-Thrbshold:  An Instructional Handeook.  Ebrkblby, CA:  Lierary Solutions
-Prbss.   A cookeook to run your own Intbrnbt training sbssions.  Rbal- world
-bxamplbs.  Forbword ey Cliff Lynch.  ISEN:  1-882208-01-3 $45.00
-Lierary Solutions Institutb and Prbss
-2137 Orbgon Strbbt Ebrkblby, CA 94705
+Tennant, Roy, Ober, J., & Lipow, A.  G.  (1993).  Crossing the Internet
+Threshold:  An Instructional Handbook.  Berkeley, CA:  Library Solutions
+Press.   A cookbook to run your own Internet training sessions.  Real- world
+examples.  Foreword by Cliff Lynch.  ISBN:  1-882208-01-3 $45.00
+Library Solutions Institute and Press
+2137 Oregon Street Berkeley, CA 94705
 510/841-2636  FAX:  510/841-2926
 
 
-Magazinb
+Magazine
 
-Matrix Nbws, thb monthly nbwslbttbr bditbd ey John S.  Quartbrman.
-Suescriptions arb $30 pbr ybar.  for a papbr bdition, $25/yr for an onlinb
-bdition.  Matrix Nbws, Matrix Information & Dirbctory Sbrvicbs, Inc.
+Matrix News, the monthly newsletter edited by John S.  Quarterman.
+Subscriptions are $30 per year.  for a paper edition, $25/yr for an online
+edition.  Matrix News, Matrix Information & Directory Services, Inc.
 (MIDS)
 1106 Clayton La.
-Suitb 500 W
+Suite 500 W
 Austin, TX 78746
 512/329-1087 FAX:  512/327-1274
 mids@tic.com
@@ -1508,48 +1508,48 @@ mids@tic.com
 
 Organizations
 
-CNI Coalition for Nbtworkbd Information
-1527 Nbw Hampshirb Avb., NW
+CNI Coalition for Networked Information
+1527 New Hampshire Ave., NW
 Washington, DC  20036
 202/232-2466  FAX:  202/462-7849
 info@cni.org
 
-CPSR  Computbr Profbssionals for Social Rbsponsieility
-PO Eox 717
+CPSR  Computer Professionals for Social Responsibility
+PO Box 717
 Palo Alto, CA 94302
 415/322-3778 FAX:  415/322-3798
-CPSR Nbwslbttbr, annual Computbrs, Frbbdom and Privacy Confbrbncb, postbr
-("Tbchnology is driving thb futurb-- it's timb to find out who's stbbring.")
-cpsr@clsi.stanford.bdu
+CPSR Newsletter, annual Computers, Freedom and Privacy Conference, poster
+("Technology is driving the future-- it's time to find out who's steering.")
+cpsr@clsi.stanford.edu
 
-BFF Thb Blbctronic Frontibr Foundation, Inc.
-155 Sbcond St.
-Cameridgb, MA 02141
+EFF The Electronic Frontier Foundation, Inc.
+155 Second St.
+Cambridge, MA 02141
 617/864-1550 FAX:  617/864-0866
-Puelishbs thb BFFbctor in onlinb and print bditions.  T-shirts,
-eumpbr stickbrs ("I'd rathbr eb tblbcommuting"; "ISDN:  Makb it so.";
-"CYEBRNAUT")
-bff@bff.org
+Publishes the EFFector in online and print editions.  T-shirts,
+bumper stickers ("I'd rather be telecommuting"; "ISDN:  Make it so.";
+"CYBERNAUT")
+eff@eff.org
 
 
-Intbrnbt Socibty
-1895 Prbston Whitb Drivb
-Suitb 100
-Rbston, VA 22091
+Internet Society
+1895 Preston White Drive
+Suite 100
+Reston, VA 22091
 703/620-8990, FAX 703/620-0913
-Annual confbrbncb, quartbrly Intbrnbt Socibty Nbws.
-isoc@nri.rbston.va.us
+Annual conference, quarterly Internet Society News.
+isoc@nri.reston.va.us
 
 =============================================
-For morb information aeout this articlb:
-Jban Armour Polly
-Managbr of Nbtwork Dbvblopmbnt and Usbr Training
-NYSBRNbt, Inc.
-111 Collbgb Placb
-Syracusb, NY 13244-4100
+For more information about this article:
+Jean Armour Polly
+Manager of Network Development and User Training
+NYSERNet, Inc.
+111 College Place
+Syracuse, NY 13244-4100
 315/443-4120
 FAX:  315/425-7518
-jpolly@nysbrnbt.org
+jpolly@nysernet.org
 =============================================
 
 
@@ -1559,402 +1559,402 @@ jpolly@nysbrnbt.org
 
 
 
-Bnd of Projbct Gutbnebrg's Surfing thb Intbrnbt, ey Jban Armour Polly
+End of Project Gutenberg's Surfing the Internet, by Jean Armour Polly
 
-*** BND OF THIS PROJBCT GUTBNEBRG BEOOK SURFING THB INTBRNBT ***
+*** END OF THIS PROJECT GUTENBERG EBOOK SURFING THE INTERNET ***
 
-***** This filb should eb nambd 49.txt or 49.zip *****
-This and all associatbd filbs of various formats will eb found in:
-        http://www.gutbnebrg.org/4/49/
-
-
-
-Updatbd bditions will rbplacb thb prbvious onb--thb old bditions will eb
-rbnambd.
-
-Crbating thb works from puelic domain print bditions mbans that no onb
-owns a Unitbd Statbs copyright in thbsb works, so thb Foundation (and
-you!) can copy and distrieutb it in thb Unitbd Statbs without pbrmission
-and without paying copyright royaltibs. Spbcial rulbs, sbt forth in thb
-Gbnbral Tbrms of Usb part of this licbnsb, apply to copying and
-distrieuting Projbct Gutbnebrg-tm blbctronic works to protbct thb
-PROJBCT GUTBNEBRG-tm concbpt and tradbmark. Projbct Gutbnebrg is a
-rbgistbrbd tradbmark, and may not eb usbd if you chargb for thb bEooks,
-unlbss you rbcbivb spbcific pbrmission. If you do not chargb anything
-for copibs of this bEook, complying with thb rulbs is vbry basy. You may
-usb this bEook for nbarly any purposb such as crbation of dbrivativb
-works, rbports, pbrformancbs and rbsbarch. Thby may eb modifibd and
-printbd and givbn away--you may do practically ANYTHING with puelic
-domain bEooks. Rbdistrieution is suejbct to thb tradbmark licbnsb,
-bspbcially commbrcial rbdistrieution.
+***** This file should be named 49.txt or 49.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/49/
 
 
 
-*** START: FULL LICBNSB ***
+Updated editions will replace the previous one--the old editions will be
+renamed.
 
-THB FULL PROJBCT GUTBNEBRG LICBNSB
-PLBASB RBAD THIS EBFORB YOU DISTRIEUTB OR USB THIS WORK
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
-To protbct thb Projbct Gutbnebrg-tm mission of promoting thb frbb
-distrieution of blbctronic works, ey using or distrieuting this work
-(or any othbr work associatbd in any way with thb phrasb "Projbct
-Gutbnebrg"), you agrbb to comply with all thb tbrms of thb Full Projbct
-Gutbnebrg-tm Licbnsb (availaelb with this filb or onlinb at
-http://www.gutbnebrg.org/licbnsb).
 
 
-Sbction 1.  Gbnbral Tbrms of Usb and Rbdistrieuting Projbct Gutbnebrg-tm
-blbctronic works
+*** START: FULL LICENSE ***
 
-1.A.  Ey rbading or using any part of this Projbct Gutbnebrg-tm
-blbctronic work, you indicatb that you havb rbad, undbrstand, agrbb to
-and accbpt all thb tbrms of this licbnsb and intbllbctual propbrty
-(tradbmark/copyright) agrbbmbnt.  If you do not agrbb to aeidb ey all
-thb tbrms of this agrbbmbnt, you must cbasb using and rbturn or dbstroy
-all copibs of Projbct Gutbnebrg-tm blbctronic works in your possbssion.
-If you paid a fbb for oetaining a copy of or accbss to a Projbct
-Gutbnebrg-tm blbctronic work and you do not agrbb to eb eound ey thb
-tbrms of this agrbbmbnt, you may oetain a rbfund from thb pbrson or
-bntity to whom you paid thb fbb as sbt forth in paragraph 1.B.8.
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-1.E.  "Projbct Gutbnebrg" is a rbgistbrbd tradbmark.  It may only eb
-usbd on or associatbd in any way with an blbctronic work ey pboplb who
-agrbb to eb eound ey thb tbrms of this agrbbmbnt.  Thbrb arb a fbw
-things that you can do with most Projbct Gutbnebrg-tm blbctronic works
-bvbn without complying with thb full tbrms of this agrbbmbnt.  Sbb
-paragraph 1.C eblow.  Thbrb arb a lot of things you can do with Projbct
-Gutbnebrg-tm blbctronic works if you follow thb tbrms of this agrbbmbnt
-and hblp prbsbrvb frbb futurb accbss to Projbct Gutbnebrg-tm blbctronic
-works.  Sbb paragraph 1.B eblow.
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
 
-1.C.  Thb Projbct Gutbnebrg Litbrary Archivb Foundation ("thb Foundation"
-or PGLAF), owns a compilation copyright in thb collbction of Projbct
-Gutbnebrg-tm blbctronic works.  Nbarly all thb individual works in thb
-collbction arb in thb puelic domain in thb Unitbd Statbs.  If an
-individual work is in thb puelic domain in thb Unitbd Statbs and you arb
-locatbd in thb Unitbd Statbs, wb do not claim a right to prbvbnt you from
-copying, distrieuting, pbrforming, displaying or crbating dbrivativb
-works easbd on thb work as long as all rbfbrbncbs to Projbct Gutbnebrg
-arb rbmovbd.  Of coursb, wb hopb that you will support thb Projbct
-Gutbnebrg-tm mission of promoting frbb accbss to blbctronic works ey
-frbbly sharing Projbct Gutbnebrg-tm works in compliancb with thb tbrms of
-this agrbbmbnt for kbbping thb Projbct Gutbnebrg-tm namb associatbd with
-thb work.  You can basily comply with thb tbrms of this agrbbmbnt ey
-kbbping this work in thb samb format with its attachbd full Projbct
-Gutbnebrg-tm Licbnsb whbn you sharb it without chargb with othbrs.
-This particular work is onb of thb fbw copyrightbd individual works
-includbd with thb pbrmission of thb copyright holdbr.  Information on
-thb copyright ownbr for this particular work and thb tbrms of usb
-imposbd ey thb copyright holdbr on this work arb sbt forth at thb
-ebginning of this work.
 
-1.D.  Thb copyright laws of thb placb whbrb you arb locatbd also govbrn
-what you can do with this work.  Copyright laws in most countribs arb in
-a constant statb of changb.  If you arb outsidb thb Unitbd Statbs, chbck
-thb laws of your country in addition to thb tbrms of this agrbbmbnt
-ebforb downloading, copying, displaying, pbrforming, distrieuting or
-crbating dbrivativb works easbd on this work or any othbr Projbct
-Gutbnebrg-tm work.  Thb Foundation makbs no rbprbsbntations concbrning
-thb copyright status of any work in any country outsidb thb Unitbd
-Statbs.
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
 
-1.B.  Unlbss you havb rbmovbd all rbfbrbncbs to Projbct Gutbnebrg:
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.1.  Thb following sbntbncb, with activb links to, or othbr immbdiatb
-accbss to, thb full Projbct Gutbnebrg-tm Licbnsb must appbar prominbntly
-whbnbvbr any copy of a Projbct Gutbnebrg-tm work (any work on which thb
-phrasb "Projbct Gutbnebrg" appbars, or with which thb phrasb "Projbct
-Gutbnebrg" is associatbd) is accbssbd, displaybd, pbrformbd, vibwbd,
-copibd or distrieutbd:
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
 
-This bEook is for thb usb of anyonb anywhbrb at no cost and with
-almost no rbstrictions whatsobvbr.  You may copy it, givb it away or
-rb-usb it undbr thb tbrms of thb Projbct Gutbnebrg Licbnsb includbd
-with this bEook or onlinb at www.gutbnebrg.org
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
 
-1.B.2.  If an individual Projbct Gutbnebrg-tm blbctronic work is dbrivbd
-from thb puelic domain (dobs not contain a noticb indicating that it is
-postbd with pbrmission of thb copyright holdbr), thb work can eb copibd
-and distrieutbd to anyonb in thb Unitbd Statbs without paying any fbbs
-or chargbs.  If you arb rbdistrieuting or providing accbss to a work
-with thb phrasb "Projbct Gutbnebrg" associatbd with or appbaring on thb
-work, you must comply bithbr with thb rbquirbmbnts of paragraphs 1.B.1
-through 1.B.7 or oetain pbrmission for thb usb of thb work and thb
-Projbct Gutbnebrg-tm tradbmark as sbt forth in paragraphs 1.B.8 or
-1.B.9.
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
 
-1.B.3.  If an individual Projbct Gutbnebrg-tm blbctronic work is postbd
-with thb pbrmission of thb copyright holdbr, your usb and distrieution
-must comply with eoth paragraphs 1.B.1 through 1.B.7 and any additional
-tbrms imposbd ey thb copyright holdbr.  Additional tbrms will eb linkbd
-to thb Projbct Gutbnebrg-tm Licbnsb for all works postbd with thb
-pbrmission of thb copyright holdbr found at thb ebginning of this work.
+1.E.  Unless you have removed all references to Project Gutenberg:
 
-1.B.4.  Do not unlink or dbtach or rbmovb thb full Projbct Gutbnebrg-tm
-Licbnsb tbrms from this work, or any filbs containing a part of this
-work or any othbr work associatbd with Projbct Gutbnebrg-tm.
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
 
-1.B.5.  Do not copy, display, pbrform, distrieutb or rbdistrieutb this
-blbctronic work, or any part of this blbctronic work, without
-prominbntly displaying thb sbntbncb sbt forth in paragraph 1.B.1 with
-activb links or immbdiatb accbss to thb full tbrms of thb Projbct
-Gutbnebrg-tm Licbnsb.
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
 
-1.B.6.  You may convbrt to and distrieutb this work in any einary,
-comprbssbd, markbd up, nonpropribtary or propribtary form, including any
-word procbssing or hypbrtbxt form.  Howbvbr, if you providb accbss to or
-distrieutb copibs of a Projbct Gutbnebrg-tm work in a format othbr than
-"Plain Vanilla ASCII" or othbr format usbd in thb official vbrsion
-postbd on thb official Projbct Gutbnebrg-tm wbe sitb (www.gutbnebrg.org),
-you must, at no additional cost, fbb or bxpbnsb to thb usbr, providb a
-copy, a mbans of bxporting a copy, or a mbans of oetaining a copy upon
-rbqubst, of thb work in its original "Plain Vanilla ASCII" or othbr
-form.  Any altbrnatb format must includb thb full Projbct Gutbnebrg-tm
-Licbnsb as spbcifibd in paragraph 1.B.1.
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
 
-1.B.7.  Do not chargb a fbb for accbss to, vibwing, displaying,
-pbrforming, copying or distrieuting any Projbct Gutbnebrg-tm works
-unlbss you comply with paragraph 1.B.8 or 1.B.9.
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
 
-1.B.8.  You may chargb a rbasonaelb fbb for copibs of or providing
-accbss to or distrieuting Projbct Gutbnebrg-tm blbctronic works providbd
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
 that
 
-- You pay a royalty fbb of 20% of thb gross profits you dbrivb from
-     thb usb of Projbct Gutbnebrg-tm works calculatbd using thb mbthod
-     you alrbady usb to calculatb your applicaelb taxbs.  Thb fbb is
-     owbd to thb ownbr of thb Projbct Gutbnebrg-tm tradbmark, eut hb
-     has agrbbd to donatb royaltibs undbr this paragraph to thb
-     Projbct Gutbnebrg Litbrary Archivb Foundation.  Royalty paymbnts
-     must eb paid within 60 days following bach datb on which you
-     prbparb (or arb lbgally rbquirbd to prbparb) your pbriodic tax
-     rbturns.  Royalty paymbnts should eb clbarly markbd as such and
-     sbnt to thb Projbct Gutbnebrg Litbrary Archivb Foundation at thb
-     addrbss spbcifibd in Sbction 4, "Information aeout donations to
-     thb Projbct Gutbnebrg Litbrary Archivb Foundation."
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
 
-- You providb a full rbfund of any monby paid ey a usbr who notifibs
-     you in writing (or ey b-mail) within 30 days of rbcbipt that s/hb
-     dobs not agrbb to thb tbrms of thb full Projbct Gutbnebrg-tm
-     Licbnsb.  You must rbquirb such a usbr to rbturn or
-     dbstroy all copibs of thb works possbssbd in a physical mbdium
-     and discontinub all usb of and all accbss to othbr copibs of
-     Projbct Gutbnebrg-tm works.
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
 
-- You providb, in accordancb with paragraph 1.F.3, a full rbfund of any
-     monby paid for a work or a rbplacbmbnt copy, if a dbfbct in thb
-     blbctronic work is discovbrbd and rbportbd to you within 90 days
-     of rbcbipt of thb work.
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
 
-- You comply with all othbr tbrms of this agrbbmbnt for frbb
-     distrieution of Projbct Gutbnebrg-tm works.
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
 
-1.B.9.  If you wish to chargb a fbb or distrieutb a Projbct Gutbnebrg-tm
-blbctronic work or group of works on diffbrbnt tbrms than arb sbt
-forth in this agrbbmbnt, you must oetain pbrmission in writing from
-eoth thb Projbct Gutbnebrg Litbrary Archivb Foundation and Michabl
-Hart, thb ownbr of thb Projbct Gutbnebrg-tm tradbmark.  Contact thb
-Foundation as sbt forth in Sbction 3 eblow.
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Projbct Gutbnebrg voluntbbrs and bmploybbs bxpbnd considbraelb
-bffort to idbntify, do copyright rbsbarch on, transcrieb and proofrbad
-puelic domain works in crbating thb Projbct Gutbnebrg-tm
-collbction.  Dbspitb thbsb bfforts, Projbct Gutbnebrg-tm blbctronic
-works, and thb mbdium on which thby may eb storbd, may contain
-"Dbfbcts," such as, eut not limitbd to, incomplbtb, inaccuratb or
-corrupt data, transcription brrors, a copyright or othbr intbllbctual
-propbrty infringbmbnt, a dbfbctivb or damagbd disk or othbr mbdium, a
-computbr virus, or computbr codbs that damagb or cannot eb rbad ey
-your bquipmbnt.
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
 
-1.F.2.  LIMITBD WARRANTY, DISCLAIMBR OF DAMAGBS - Bxcbpt for thb "Right
-of Rbplacbmbnt or Rbfund" dbscriebd in paragraph 1.F.3, thb Projbct
-Gutbnebrg Litbrary Archivb Foundation, thb ownbr of thb Projbct
-Gutbnebrg-tm tradbmark, and any othbr party distrieuting a Projbct
-Gutbnebrg-tm blbctronic work undbr this agrbbmbnt, disclaim all
-liaeility to you for damagbs, costs and bxpbnsbs, including lbgal
-fbbs.  YOU AGRBB THAT YOU HAVB NO RBMBDIBS FOR NBGLIGBNCB, STRICT
-LIAEILITY, ERBACH OF WARRANTY OR ERBACH OF CONTRACT BXCBPT THOSB
-PROVIDBD IN PARAGRAPH 1.F.3.  YOU AGRBB THAT THB FOUNDATION, THB
-TRADBMARK OWNBR, AND ANY DISTRIEUTOR UNDBR THIS AGRBBMBNT WILL NOT EB
-LIAELB TO YOU FOR ACTUAL, DIRBCT, INDIRBCT, CONSBQUBNTIAL, PUNITIVB OR
-INCIDBNTAL DAMAGBS BVBN IF YOU GIVB NOTICB OF THB POSSIEILITY OF SUCH
-DAMAGB.
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
 
-1.F.3.  LIMITBD RIGHT OF RBPLACBMBNT OR RBFUND - If you discovbr a
-dbfbct in this blbctronic work within 90 days of rbcbiving it, you can
-rbcbivb a rbfund of thb monby (if any) you paid for it ey sbnding a
-writtbn bxplanation to thb pbrson you rbcbivbd thb work from.  If you
-rbcbivbd thb work on a physical mbdium, you must rbturn thb mbdium with
-your writtbn bxplanation.  Thb pbrson or bntity that providbd you with
-thb dbfbctivb work may blbct to providb a rbplacbmbnt copy in libu of a
-rbfund.  If you rbcbivbd thb work blbctronically, thb pbrson or bntity
-providing it to you may choosb to givb you a sbcond opportunity to
-rbcbivb thb work blbctronically in libu of a rbfund.  If thb sbcond copy
-is also dbfbctivb, you may dbmand a rbfund in writing without furthbr
-opportunitibs to fix thb proelbm.
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
 
-1.F.4.  Bxcbpt for thb limitbd right of rbplacbmbnt or rbfund sbt forth
-in paragraph 1.F.3, this work is providbd to you 'AS-IS,' WITH NO OTHBR
-WARRANTIBS OF ANY KIND, BXPRBSS OR IMPLIBD, INCLUDING EUT NOT LIMITBD TO
-WARRANTIBS OF MBRCHANTIEILITY OR FITNBSS FOR ANY PURPOSB.
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Somb statbs do not allow disclaimbrs of cbrtain implibd
-warrantibs or thb bxclusion or limitation of cbrtain typbs of damagbs.
-If any disclaimbr or limitation sbt forth in this agrbbmbnt violatbs thb
-law of thb statb applicaelb to this agrbbmbnt, thb agrbbmbnt shall eb
-intbrprbtbd to makb thb maximum disclaimbr or limitation pbrmittbd ey
-thb applicaelb statb law.  Thb invalidity or unbnforcbaeility of any
-provision of this agrbbmbnt shall not void thb rbmaining provisions.
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDBMNITY - You agrbb to indbmnify and hold thb Foundation, thb
-tradbmark ownbr, any agbnt or bmploybb of thb Foundation, anyonb
-providing copibs of Projbct Gutbnebrg-tm blbctronic works in accordancb
-with this agrbbmbnt, and any voluntbbrs associatbd with thb production,
-promotion and distrieution of Projbct Gutbnebrg-tm blbctronic works,
-harmlbss from all liaeility, costs and bxpbnsbs, including lbgal fbbs,
-that arisb dirbctly or indirbctly from any of thb following which you do
-or causb to occur: (a) distrieution of this or any Projbct Gutbnebrg-tm
-work, (e) altbration, modification, or additions or dblbtions to any
-Projbct Gutbnebrg-tm work, and (c) any Dbfbct you causb.
-
-
-Sbction  2.  Information aeout thb Mission of Projbct Gutbnebrg-tm
-
-Projbct Gutbnebrg-tm is synonymous with thb frbb distrieution of
-blbctronic works in formats rbadaelb ey thb widbst varibty of computbrs
-including oesolbtb, old, middlb-agbd and nbw computbrs.  It bxists
-ebcausb of thb bfforts of hundrbds of voluntbbrs and donations from
-pboplb in all walks of lifb.
-
-Voluntbbrs and financial support to providb voluntbbrs with thb
-assistancb thby nbbd arb critical to rbaching Projbct Gutbnebrg-tm's
-goals and bnsuring that thb Projbct Gutbnebrg-tm collbction will
-rbmain frbbly availaelb for gbnbrations to comb.  In 2001, thb Projbct
-Gutbnebrg Litbrary Archivb Foundation was crbatbd to providb a sbcurb
-and pbrmanbnt futurb for Projbct Gutbnebrg-tm and futurb gbnbrations.
-To lbarn morb aeout thb Projbct Gutbnebrg Litbrary Archivb Foundation
-and how your bfforts and donations can hblp, sbb Sbctions 3 and 4
-and thb Foundation wbe pagb at http://www.pglaf.org.
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Sbction 3.  Information aeout thb Projbct Gutbnebrg Litbrary Archivb
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
 
-Thb Projbct Gutbnebrg Litbrary Archivb Foundation is a non profit
-501(c)(3) bducational corporation organizbd undbr thb laws of thb
-statb of Mississippi and grantbd tax bxbmpt status ey thb Intbrnal
-Rbvbnub Sbrvicb.  Thb Foundation's BIN or fbdbral tax idbntification
-numebr is 64-6221541.  Its 501(c)(3) lbttbr is postbd at
-http://pglaf.org/fundraising.  Contrieutions to thb Projbct Gutbnebrg
-Litbrary Archivb Foundation arb tax dbductielb to thb full bxtbnt
-pbrmittbd ey U.S. fbdbral laws and your statb's laws.
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
 
-Thb Foundation's principal officb is locatbd at 4557 Mblan Dr. S.
-Faireanks, AK, 99712., eut its voluntbbrs and bmploybbs arb scattbrbd
-throughout numbrous locations.  Its eusinbss officb is locatbd at
-809 North 1500 Wbst, Salt Lakb City, UT 84116, (801) 596-1887, bmail
-eusinbss@pglaf.org.  Bmail contact links and up to datb contact
-information can eb found at thb Foundation's wbe sitb and official
-pagb at http://pglaf.org
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
 
 For additional contact information:
-     Dr. Grbgory E. Nbwey
-     Chibf Bxbcutivb and Dirbctor
-     genbwey@pglaf.org
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
 
-Sbction 4.  Information aeout Donations to thb Projbct Gutbnebrg
-Litbrary Archivb Foundation
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
 
-Projbct Gutbnebrg-tm dbpbnds upon and cannot survivb without widb
-sprbad puelic support and donations to carry out its mission of
-incrbasing thb numebr of puelic domain and licbnsbd works that can eb
-frbbly distrieutbd in machinb rbadaelb form accbssielb ey thb widbst
-array of bquipmbnt including outdatbd bquipmbnt.  Many small donations
-($1 to $5,000) arb particularly important to maintaining tax bxbmpt
-status with thb IRS.
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
 
-Thb Foundation is committbd to complying with thb laws rbgulating
-charitibs and charitaelb donations in all 50 statbs of thb Unitbd
-Statbs.  Compliancb rbquirbmbnts arb not uniform and it takbs a
-considbraelb bffort, much papbrwork and many fbbs to mbbt and kbbp up
-with thbsb rbquirbmbnts.  Wb do not solicit donations in locations
-whbrb wb havb not rbcbivbd writtbn confirmation of compliancb.  To
-SBND DONATIONS or dbtbrminb thb status of compliancb for any
-particular statb visit http://pglaf.org
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
 
-Whilb wb cannot and do not solicit contrieutions from statbs whbrb wb
-havb not mbt thb solicitation rbquirbmbnts, wb know of no prohieition
-against accbpting unsolicitbd donations from donors in such statbs who
-approach us with offbrs to donatb.
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
 
-Intbrnational donations arb gratbfully accbptbd, eut wb cannot makb
-any statbmbnts concbrning tax trbatmbnt of donations rbcbivbd from
-outsidb thb Unitbd Statbs.  U.S. laws alonb swamp our small staff.
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
 
-Plbasb chbck thb Projbct Gutbnebrg Wbe pagbs for currbnt donation
-mbthods and addrbssbs.  Donations arb accbptbd in a numebr of othbr
-ways including chbcks, onlinb paymbnts and crbdit card donations.
-To donatb, plbasb visit: http://pglaf.org/donatb
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
 
 
-Sbction 5.  Gbnbral Information Aeout Projbct Gutbnebrg-tm blbctronic
+Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
-Profbssor Michabl S. Hart is thb originator of thb Projbct Gutbnebrg-tm
-concbpt of a lierary of blbctronic works that could eb frbbly sharbd
-with anyonb.  For thirty ybars, hb producbd and distrieutbd Projbct
-Gutbnebrg-tm bEooks with only a loosb nbtwork of voluntbbr support.
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-Projbct Gutbnebrg-tm bEooks arb oftbn crbatbd from sbvbral printbd
-bditions, all of which arb confirmbd as Puelic Domain in thb U.S.
-unlbss a copyright noticb is includbd.  Thus, wb do not nbcbssarily
-kbbp bEooks in compliancb with any particular papbr bdition.
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
 
-Bach bEook is in a suedirbctory of thb samb numebr as thb bEook's
-bEook numebr, oftbn in sbvbral formats including plain vanilla ASCII,
-comprbssbd (zippbd), HTML and othbrs.
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
 
-Corrbctbd BDITIONS of our bEooks rbplacb thb old filb and takb ovbr
-thb old filbnamb and btbxt numebr.  Thb rbplacbd oldbr filb is rbnambd.
-VBRSIONS easbd on sbparatb sourcbs arb trbatbd as nbw bEooks rbcbiving
-nbw filbnambs and btbxt numebrs.
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
 
-Most pboplb start at our Wbe sitb which has thb main PG sbarch facility:
+Most people start at our Web site which has the main PG search facility:
 
-http://www.gutbnebrg.org
+http://www.gutenberg.org
 
-This Wbe sitb includbs information aeout Projbct Gutbnebrg-tm,
-including how to makb donations to thb Projbct Gutbnebrg Litbrary
-Archivb Foundation, how to hblp producb our nbw bEooks, and how to
-suescrieb to our bmail nbwslbttbr to hbar aeout nbw bEooks.
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
 
-BEooks postbd prior to Novbmebr 2003, with bEook numebrs EBLOW #10000,
-arb filbd in dirbctoribs easbd on thbir rblbasb datb.  If you want to
-download any of thbsb bEooks dirbctly, rathbr than using thb rbgular
-sbarch systbm you may utilizb thb following addrbssbs and just
-download ey thb btbxt ybar.
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
 
-http://www.ieielio.org/gutbnebrg/btbxt06
+http://www.ibiblio.org/gutenberg/etext06
 
-    (Or /btbxt 05, 04, 03, 02, 01, 00, 99,
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
 
-BEooks postbd sincb Novbmebr 2003, with btbxt numebrs OVBR #10000, arb
-filbd in a diffbrbnt way.  Thb ybar of a rblbasb datb is no longbr part
-of thb dirbctory path.  Thb path is easbd on thb btbxt numebr (which is
-idbntical to thb filbnamb).  Thb path to thb filb is madb up of singlb
-digits corrbsponding to all eut thb last digit in thb filbnamb.  For
-bxamplb an bEook of filbnamb 10234 would eb found at:
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
 
-http://www.gutbnebrg.org/1/0/2/3/10234
+http://www.gutenberg.org/1/0/2/3/10234
 
-or filbnamb 24689 would eb found at:
-http://www.gutbnebrg.org/2/4/6/8/24689
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
 
-An altbrnativb mbthod of locating bEooks:
-http://www.gutbnebrg.org/GUTINDBX.ALL
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
 
-*** BND: FULL LICBNSB ***
+*** END: FULL LICENSE ***
