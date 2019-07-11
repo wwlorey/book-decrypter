@@ -1,3 +1,7 @@
+#### CS 3600 Security | Project Gutenberg Book Encrypter/Decrypter
+
+#### Assignment prompt:
+
 # pa01 - Name the book: Write a crack for an improved substitution encryption
 
 ## Assignment description
